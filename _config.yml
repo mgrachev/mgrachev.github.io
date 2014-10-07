@@ -1,22 +1,39 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-author: 
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
-google_analytics: false
+title: mgrachev.com
+email: work@mgrachev.com
+description: No description
+url: http://mgrachev.github.io # http://localhost:4000
+date_format: '%d/%m/%Y'
+
 animated: false
-show_related_posts: false
+show:
+  related_posts: true
+  social_icons: true
+
+# Social networks
+twitter_username: mgrachev
+github_username:  mgrachev
+linkedin_username: mgrachev
+yandex_money_url:
+
+google_analytics:
+
+# Translation
+ru:
+  updated: Обновлено
+  related_posts: Похожие записи
+  footer:
+    copyright: '&copy; 2014 mgrachev.com'
+    theme: Тема
+  navigation:
+    about: Обо мне
+  pagination:
+    newer: Новые
+    older: Старые
 
 # Build settings
 markdown: kramdown
 permalink: pretty
-paginate: 3
+paginate: 5
 sass:
   compressed: true
