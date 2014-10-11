@@ -16,7 +16,7 @@ github_username:  mgrachev
 linkedin_username: mgrachev
 yandex_money_url:
 
-google_analytics:
+google_analytics: true
 
 # Translation
 ru:
