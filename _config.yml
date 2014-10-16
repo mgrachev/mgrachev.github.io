@@ -25,7 +25,8 @@ ru:
   related_posts: Похожие записи
   footer:
     copyright: '&copy; 2014 mgrachev.com'
-    theme: Тема
+    available_on: доступен на
+    theme: тема
   navigation:
     about: Обо мне
   pagination:
