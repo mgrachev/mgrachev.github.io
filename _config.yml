@@ -1,10 +1,11 @@
 # Site settings
 title: mgrachev.com
+author: Михаил Грачев
 email: work@mgrachev.com
-description: No description
-url: http://mgrachev.com # http://localhost:4000
+url: http://mgrachev.com  # http://localhost:4000
 date_format: '%d/%m/%Y'
 
+# Options
 animated: false
 show:
   related_posts: true
@@ -16,6 +17,7 @@ github_username:  mgrachev
 linkedin_username: mgrachev
 yandex_money_url:
 
+# Analytics
 google_analytics: true
 yandex_metrika: true
 
@@ -32,6 +34,8 @@ ru:
   pagination:
     newer: Новые
     older: Старые
+  index:
+    coming_soon: Здесь пока ничего нет, но скоро появится :)
 
 # Build settings
 markdown: kramdown
