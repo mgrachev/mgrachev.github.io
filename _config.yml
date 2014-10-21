@@ -1,9 +1,10 @@
 # Site settings
-title: mgrachev.com
-author: Михаил Грачев
 email: work@mgrachev.com
 url: http://mgrachev.com  # http://localhost:4000
 date_format: '%d/%m/%Y'
+title: Блог Михаила Грачёва
+author: Грачёв Михаил
+description: Блог Rails-разработчика
 
 # Options
 animated: false
@@ -14,7 +15,6 @@ show:
 # Social networks
 twitter_username: mgrachev
 github_username:  mgrachev
-linkedin_username: mgrachev
 yandex_money_url:
 
 # Analytics
@@ -26,11 +26,9 @@ ru:
   updated: Обновлено
   related_posts: Похожие записи
   footer:
-    copyright: '&copy; 2014 mgrachev.com'
+    copyright: '&copy; 2014 Грачёв Михаил'
     available_on: доступен на
     theme: тема
-  navigation:
-    about: Обо мне
   pagination:
     newer: Новые
     older: Старые
