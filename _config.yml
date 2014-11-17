@@ -1,6 +1,7 @@
 # Site settings
 email: work@mgrachev.com
-url: http://mgrachev.com  # http://localhost:4000
+url: http://mgrachev.com
+#url: http://localhost:4000
 date_format: '%d/%m/%Y'
 title: Блог Михаила Грачёва
 author: Грачёв Михаил
