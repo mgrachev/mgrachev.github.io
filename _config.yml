@@ -9,6 +9,7 @@ description: Блог Rails-разработчика
 
 # Options
 animated: false
+comments: true
 show:
   related_posts: true
   social_icons: true
