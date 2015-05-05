@@ -133,7 +133,7 @@ $ brew install rbenv ruby-build rbenv-gem-rehash
 
 {% highlight bash %}
 $ echo 'export RBENV_ROOT=/usr/local/var/rbenv' >> ~/.zshrc
-$ echo 'if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi' >> ~/.zshrc
+$ echo 'if which rbenv > /dev/null; then eval "$(rbenv init - zsh)"; fi' >> ~/.zshrc
 {% endhighlight %}
 
 #### Ruby
