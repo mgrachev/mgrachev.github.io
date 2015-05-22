@@ -126,7 +126,7 @@ $ git config --global push.default simple
 Далее, устанавливаем менеджер версий Ruby - [rbenv](https://github.com/sstephenson/rbenv). Почему rbenv? Ответ можно получить [здесь](https://github.com/sstephenson/rbenv/wiki/Why-rbenv%3F).
 
 {% highlight bash %}
-$ brew install rbenv ruby-build rbenv-gem-rehash
+$ brew install rbenv ruby-build rbenv-gem-rehash rbenv-vars rbenv-binstubs
 {% endhighlight %}
 
 Настраиваем ZSH для работы с rbenv:
