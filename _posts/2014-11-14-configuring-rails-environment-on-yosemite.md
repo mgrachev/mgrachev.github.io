@@ -2,6 +2,7 @@
 layout: post
 title: "Настройка Rails-окружения на OS X Yosemite"
 date: 2014-11-17 10:00:00
+update_date: 2015-05-22 09:00:00
 tags: apple yosemite ruby rails git homebrew zsh rbenv rubygems bundler
 summary: "В прошлом месяце, компания Apple, выпустила новую версию своей операционной системы - OS X 10.10 Yosemite. В этой статье я расскажу, как развернуть полноценное рабочее окружение на новой ОС от Apple."
 ---
