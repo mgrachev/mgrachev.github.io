@@ -1,23 +1,50 @@
 # Site settings
-email: work@mgrachev.com
-url: http://mgrachev.com
-#url: http://localhost:4000
-date_format: '%d/%m/%Y'
 title: Блог Михаила Грачёва
+email: work@mgrachev.com
 author: Грачёв Михаил
 description: Блог Rails-разработчика
+baseurl:
+# url: http://mgrachev.com
+url: http://localhost:4000
+date_format: '%d/%m/%Y'
 
-# Options
+# Optional features
 animated: false
-comments: true
 show:
   related_posts: true
   social_icons: true
+  post_footers: false
 
-# Social networks
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname: mgrachev
+
+# Social icons
+github_username: mgrachev
+bitbucket_username:
+stackoverflow_id:
 twitter_username: mgrachev
-github_username:  mgrachev
-yandex_money_url:
+google_plus_id:
+linkedin_username:
+angellist_username:
+medium_id:
+bitcoin_url:
+paypal_url:
+flattr_button:
+
+# Post sharing icons
+show_sharing_icons: false
+share_text: 'Share this post!'
+# Change to 'true' to enable individual icons
+share_facebook: false
+share_twitter: false
+share_googleplus: false
+share_linkedin: false
+share_digg: false
+share_tumblr: false
+share_reddit: false
+share_stumbleupon: false
+share_hackernews: false
 
 # Analytics
 google_analytics: true
@@ -39,7 +66,11 @@ ru:
 
 # Build settings
 markdown: kramdown
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
 permalink: pretty
 paginate: 5
 sass:
   compressed: true
+gems:
+  - jekyll-sitemap
