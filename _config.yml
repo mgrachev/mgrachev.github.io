@@ -47,7 +47,7 @@ share_stumbleupon: false
 share_hackernews: false
 
 # Analytics
-google_analytics: true
+google_analytics: 'UA-25890313-6'
 yandex_metrika: true
 
 # Translation
