@@ -202,7 +202,7 @@ deploy@droplet:~$ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 
 Создаем файл `/etc/apt/sources.list.d/passenger.list` и добавляем в него новый источник:
 
 {% highlight bash %}
-deploy@droplet:~$ deb https://oss-binaries.phusionpassenger.com/apt/passenger trusty main
+deb https://oss-binaries.phusionpassenger.com/apt/passenger trusty main
 {% endhighlight %}
 
 Меняем права на этот файл:
