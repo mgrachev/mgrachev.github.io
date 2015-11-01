@@ -43,3 +43,7 @@ permalink: pretty
 paginate: 5
 sass:
   compressed: true
+exclude: [vendor]
+gems:
+  - jemoji
+  - jekyll-sitemap
