@@ -38,7 +38,7 @@ ru:
     coming_soon: Здесь пока ничего нет, но скоро появится :)
   navigation:
     pull_requests: Pull requests
-    pull_requests_count: 11
+    pull_requests_count: 14
 
 # Build settings
 markdown: kramdown
