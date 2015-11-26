@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Список Pull requests на GitHub
+title: Список pull requests на GitHub
 permalink: /pull_requests/
 ---
 
