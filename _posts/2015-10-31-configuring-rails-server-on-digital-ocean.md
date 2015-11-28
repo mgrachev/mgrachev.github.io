@@ -3,7 +3,7 @@ layout: post
 title: "Настройка Rails-сервера на DigitalOcean"
 date: 2015-10-31 16:00:00
 tags: rails ruby digitalocean ubuntu deploy redis postgresql nginx passenger rbenv zsh
-summary: "В прошлой статье мы говорили о настройке Rails-окружения для разработки. Теперь пришло время для настройки боевого сервера."
+summary: "Настройка боевого Rails-сервера на DigitalOcean. Шаг за шагом."
 ---
 
 ![DigitalOcean]({{ site.url }}/assets/2015-10-31-configuring-rails-server-on-digital-ocean/VcTfDWmDK_a8D6jAz8cDJQ.png)
