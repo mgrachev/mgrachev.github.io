@@ -20,15 +20,12 @@ github_username:  mgrachev
 yandex_money_url:
 
 # Google services
-google_analytics:
+google_analytics: UA-25890313-6
 google_verification: zCBCNWNaGsA_SDRTjof3qXR0BqFRST9_R1aQG_xSY3s
 
 # Yandex services
 yandex_verification: 58ab8db0550e38f2
-
-# Analytics
-google_analytics: true
-yandex_metrika: true
+yandex_metrika: 26583834
 
 # Translation
 ru:
