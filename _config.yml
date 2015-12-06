@@ -27,6 +27,12 @@ google_verification: zCBCNWNaGsA_SDRTjof3qXR0BqFRST9_R1aQG_xSY3s
 yandex_verification: 58ab8db0550e38f2
 yandex_metrika: 26583834
 
+# Post sharing icons
+show_sharing_icons: true
+# Change to 'true' to enable individual icons
+share_facebook: true
+share_twitter: true
+
 # Translation
 ru:
   updated: Обновлено
@@ -43,6 +49,7 @@ ru:
   navigation:
     pull_requests: Pull requests
     pull_requests_count: 14
+  share_text: 'Поделиться:'
 
 # Build settings
 markdown: kramdown

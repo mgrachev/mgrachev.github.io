@@ -13,6 +13,10 @@ layout: default
   {{ content }}
 </article>
 
+{% if site.show_sharing_icons %}
+  {% include share_buttons.html %}
+{% endif %}
+
 {% if site.comments %}
 <div id="disqus_thread"></div>
 <script type="text/javascript">
