@@ -13,10 +13,11 @@ show:
   related_posts: true
   social_icons: true
 
-# Social networks
+# Social icons
 twitter_username: mgrachev
 github_username:  mgrachev
-yandex_money_url:
+yandex_money_url: https://money.yandex.ru/to/41001477340760
+paypal_url: https://www.paypal.me/mgrachev
 
 # Google services
 google_analytics: UA-25890313-6

@@ -1,9 +1,11 @@
 <div class="social-icons">
   <div class="left">
+    <a class="fa fa-rss" href="{{ '/feed.xml' | prepend: site.baseurl }}"></a>
+  </div>
+  <div class="right">
     {% if site.github_username %}
       <a class="fa fa-github" href="https://github.com/{{ site.github_username }}" target="_blank"></a>
     {% endif %}
-    <a class="fa fa-rss" href="{{ '/feed.xml' | prepend: site.baseurl }}"></a>
     {% if site.twitter_username %}
       <a class="fa fa-twitter" href="https://twitter.com/{{ site.twitter_username }}" target="_blank"></a>
     {% endif %}
@@ -13,10 +15,11 @@
     {% if site.linkedin_username %}
       <a class="fa fa-linkedin" href="https://www.linkedin.com/in/{{ site.linkedin_username }}" target="_blank"></a>
     {% endif %}
-  </div>
-  <div class="right">
     {% if site.yandex_money_url %}
       <a class="fa fa-rub" href="{{ site.yandex_money_url }}"></a>
+    {% endif %}
+    {% if site.paypal_url %}
+      <a class="fa fa-paypal" href="{{ site.paypal_url }}"></a>
     {% endif %}
   </div>
 </div>
