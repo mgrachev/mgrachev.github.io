@@ -9,7 +9,6 @@ description: Блог Rails-разработчика
 
 # Options
 animated: false
-comments: true
 show:
   related_posts: true
   social_icons: true
@@ -32,6 +31,16 @@ show_sharing_icons: true
 # Change to 'true' to enable individual icons
 share_facebook: true
 share_twitter: true
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname: mgrachev
+
+# Facebook Comments plugin
+# (leave blank to disable Facebook Comments, otherwise set it to true)
+facebook_comments:
+facebook_appid:
+facebook_comments_number: 10
 
 # Translation
 ru:
