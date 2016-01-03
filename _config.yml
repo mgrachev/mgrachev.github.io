@@ -1,7 +1,7 @@
 # Site settings
 email: work@mgrachev.com
 url: http://mgrachev.com
-# url: http://localhost:4000
+#url: http://localhost:4000
 date_format: '%d/%m/%Y'
 title: Блог Михаила Грачёва
 author: Грачёв Михаил
@@ -48,7 +48,6 @@ ru:
   updated: Обновлено
   related_posts: Похожие записи
   footer:
-    copyright: '&copy; 2014-2015 Грачёв Михаил'
     available_on: доступен на
     theme: тема
   pagination:
