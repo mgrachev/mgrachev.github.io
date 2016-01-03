@@ -1,23 +1,12 @@
 # Site settings
-email: work@mgrachev.com
-url: http://mgrachev.com
-#url: http://localhost:4000
-date_format: '%d/%m/%Y'
-title: Блог Михаила Грачёва
-author: Грачёв Михаил
-description: Блог Rails-разработчика
-
-# Options
-animated: false
-show:
-  related_posts: true
-  social_icons: true
-
-# Social icons
-twitter_username: mgrachev
-github_username:  mgrachev
-yandex_money_url: https://money.yandex.ru/to/41001477340760
-paypal_url: https://www.paypal.me/mgrachev
+title:       Блог Михаила Грачёва
+email:       work@mgrachev.com
+author:      Грачёв Михаил
+description: "Блог Rails-разработчика"
+baseurl:     ""
+#url:         "http://mgrachev.com"
+url:         "http://localhost:4000"
+date_format: "%d/%m/%Y"
 
 # Google services
 google_analytics: UA-25890313-6
@@ -27,11 +16,12 @@ google_verification: zCBCNWNaGsA_SDRTjof3qXR0BqFRST9_R1aQG_xSY3s
 yandex_verification: 58ab8db0550e38f2
 yandex_metrika: 26583834
 
-# Post sharing icons
-show_sharing_icons: true
-# Change to 'true' to enable individual icons
-share_facebook: true
-share_twitter: true
+# Optional features
+animated:             false
+show_related_posts:   true
+show_post_footers:    false
+show_social_icons:    true
+ajaxify_contact_form: false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
@@ -42,6 +32,48 @@ disqus_shortname: mgrachev
 facebook_comments:
 facebook_appid:
 facebook_comments_number: 10
+
+# Social icons
+github_username: mgrachev
+bitbucket_username:
+stackoverflow_id:
+twitter_username: mgrachev
+google_plus_id:
+linkedin_username:
+angellist_username:
+medium_id:
+bitcoin_url:
+paypal_url: "https://www.paypal.me/mgrachev"
+flattr_button:
+yandex_money_url: "https://money.yandex.ru/to/41001477340760"
+
+# Post sharing icons
+show_sharing_icons: true
+share_text: 'Поделиться:'
+# Change to 'true' to enable individual icons
+share_facebook: true
+share_twitter: true
+share_googleplus: false
+share_linkedin: false
+share_digg: false
+share_tumblr: false
+share_reddit: false
+share_stumbleupon: false
+share_hackernews: false
+
+# Build settings
+markdown:     kramdown
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+paginate:     5
+sass:
+  compressed: true
+gems:
+  - jemoji
+  - jekyll-sitemap
+# https://github.com/jekyll/jekyll/issues/2938
+exclude: [vendor]
 
 # Translation
 ru:
@@ -59,14 +91,3 @@ ru:
     pull_requests: Pull requests
     pull_requests_count: 16
   share_text: 'Поделиться:'
-
-# Build settings
-markdown: kramdown
-permalink: pretty
-paginate: 5
-sass:
-  compressed: true
-exclude: [vendor]
-gems:
-  - jemoji
-  - jekyll-sitemap

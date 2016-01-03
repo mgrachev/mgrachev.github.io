@@ -1,0 +1,74 @@
+//@font-face {
+//  font-family: 'Merriweather';
+//  src: local('Merriweather Light'), local('Merriweather-Light'), url('/assets/fonts/merriweather/merriweather_light.eot');
+//  src: local('Merriweather Light'), local('Merriweather-Light'), url('/assets/fonts/merriweather/merriweather_light.eot?#iefix') format('embedded-opentype'),
+//  url('/assets/fonts/merriweather/merriweather_light.woff2') format('woff2'),
+//  url('/assets/fonts/merriweather/merriweather_light.woff') format('woff'),
+//  url('/assets/fonts/merriweather/merriweather_light.ttf') format('truetype'),
+//  url('/assets/fonts/merriweather/merriweather_light.svg#merriweather_lightregular') format('svg');
+//  font-weight: 300;
+//  font-style: normal;
+//}
+//
+//@font-face {
+//  font-family: 'Merriweather';
+//  src: local('Merriweather Heavy'), local('Merriweather-Heavy'), url('/assets/fonts/merriweather/merriweather_ultrabold.eot');
+//  src: local('Merriweather Heavy'), local('Merriweather-Heavy'), url('/assets/fonts/merriweather/merriweather_ultrabold.eot?#iefix') format('embedded-opentype'),
+//  url('/assets/fonts/merriweather/merriweather_ultrabold.woff2') format('woff2'),
+//  url('/assets/fonts/merriweather/merriweather_ultrabold.woff') format('woff'),
+//  url('/assets/fonts/merriweather/merriweather_ultrabold.ttf') format('truetype'),
+//  url('/assets/fonts/merriweather/merriweather_ultrabold.svg#merriweather_ultraboldregular') format('svg');
+//  font-weight: 900;
+//  font-style: normal;
+//}
+//
+//@font-face {
+//  font-family: 'Merriweather';
+//  src: local('Merriweather Light Italic'), local('Merriweather-LightItalic'), url('/assets/fonts/merriweather/merriweather-lightit.eot');
+//  src: local('Merriweather Light Italic'), local('Merriweather-LightItalic'), url('/assets/fonts/merriweather/merriweather-lightit.eot?#iefix') format('embedded-opentype'),
+//  url('/assets/fonts/merriweather/merriweather-lightit.woff2') format('woff2'),
+//  url('/assets/fonts/merriweather/merriweather-lightit.woff') format('woff'),
+//  url('/assets/fonts/merriweather/merriweather-lightit.ttf') format('truetype'),
+//  url('/assets/fonts/merriweather/merriweather-lightit.svg#merriweatherlight_italic') format('svg');
+//  font-weight: 300;
+//  font-style: italic;
+//}
+//
+//@font-face {
+//  font-family: 'Merriweather';
+//  src: local('Merriweather Heavy Italic'), local('Merriweather-HeavyItalic'), url('/assets/fonts/merriweather/merriweather-ultrabdit.eot');
+//  src: local('Merriweather Heavy Italic'), local('Merriweather-HeavyItalic'), url('/assets/fonts/merriweather/merriweather-ultrabdit.eot?#iefix') format('embedded-opentype'),
+//  url('/assets/fonts/merriweather/merriweather-ultrabdit.woff2') format('woff2'),
+//  url('/assets/fonts/merriweather/merriweather-ultrabdit.woff') format('woff'),
+//  url('/assets/fonts/merriweather/merriweather-ultrabdit.ttf') format('truetype'),
+//  url('/assets/fonts/merriweather/merriweather-ultrabdit.svg#merriweatherultrabold_italic') format('svg');
+//  font-weight: 900;
+//  font-style: italic;
+//}
+
+@font-face {
+  font-family: 'Merriweather';
+  src: local('Merriweather Light'), local('Merriweather-Light'), url('http://64424.selcdn.ru/webfont/merriweather/merriweather-light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Merriweather';
+  src: local('Merriweather Heavy'), local('Merriweather-Heavy'), url('http://64424.selcdn.ru/webfont/merriweather/merriweather-ultrabold.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Merriweather';
+  src: local('Merriweather Light Italic'), local('Merriweather-LightItalic'), url('http://64424.selcdn.ru/webfont/merriweather/merriweather-lightit.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Merriweather';
+  src: local('Merriweather Heavy Italic'), local('Merriweather-HeavyItalic'), url('http://64424.selcdn.ru/webfont/merriweather/merriweather-ultrabdit.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+}
