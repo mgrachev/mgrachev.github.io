@@ -57,7 +57,7 @@ ru:
     coming_soon: Здесь пока ничего нет, но скоро появится :)
   navigation:
     pull_requests: Pull requests
-    pull_requests_count: 14
+    pull_requests_count: 16
   share_text: 'Поделиться:'
 
 # Build settings
