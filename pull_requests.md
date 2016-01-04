@@ -4,27 +4,72 @@ title: Список pull requests на GitHub
 permalink: /pull_requests/
 ---
 
+<p class="center">&mdash; 2016 &mdash;</p>
+
+<span class="octicon octicon-repo"></span>
+[johnotander](https://github.com/johnotander){:target='_blank'}/[pixyll](https://github.com/johnotander/pixyll){:target='_blank'}
+-
+[#241](https://github.com/johnotander/pixyll/pull/241){:target='_blank'},
+[#242](https://github.com/johnotander/pixyll/pull/242){:target='_blank'},
+[#243](https://github.com/johnotander/pixyll/pull/243){:target='_blank'},
+[#244](https://github.com/johnotander/pixyll/pull/244){:target='_blank'}
+
 <p class="center">&mdash; 2015 &mdash;</p>
 
-* 14/12 - [Pixyll #236](https://github.com/johnotander/pixyll/pull/236)
-* 25/11 - [Settings Gem #82](https://github.com/huacnlee/rails-settings-cached/pull/82)
-* 09/11 - [Administrate #198](https://github.com/thoughtbot/administrate/pull/198)
-* 06/11 - [Administrate #180](https://github.com/thoughtbot/administrate/pull/180)
-* 06/11 - [RusRails #223](https://github.com/morsbox/rusrails/pull/223)
-* 05/11 - [Administrate #160](https://github.com/thoughtbot/administrate/pull/160)
-* 05/11 - [Administrate #153](https://github.com/thoughtbot/administrate/pull/153)
-* 03/10 - [RusRails #214](https://github.com/morsbox/rusrails/pull/214)
-* 24/08 - [Pixyll #197](https://github.com/johnotander/pixyll/pull/197)
-* 21/08 - [Pixyll #194](https://github.com/johnotander/pixyll/pull/194)
-* 20/08 - [Pixyll #190](https://github.com/johnotander/pixyll/pull/190)
-* 22/07 - [PhantomJS Gem #57](https://github.com/colszowka/phantomjs-gem/pull/57)
-* 15/07 - [Rails #20890](https://github.com/rails/rails/pull/20890)
-* 29/05 - [Errbit #895](https://github.com/errbit/errbit/pull/895)
+<span class="octicon octicon-repo"></span>
+[huacnlee](https://github.com/huacnlee){:target='_blank'}/[rails-settings-cached](https://github.com/huacnlee/rails-settings-cached){:target='_blank'}
+-
+[#82](https://github.com/huacnlee/rails-settings-cached/pull/82){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[thoughtbot](https://github.com/thoughtbot){:target='_blank'}/[administrate](https://github.com/thoughtbot/administrate){:target='_blank'}
+-
+[#153](https://github.com/thoughtbot/administrate/pull/153){:target='_blank'},
+[#160](https://github.com/thoughtbot/administrate/pull/160){:target='_blank'},
+[#180](https://github.com/thoughtbot/administrate/pull/180){:target='_blank'},
+[#198](https://github.com/thoughtbot/administrate/pull/198){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[morsbox](https://github.com/morsbox){:target='_blank'}/[rusrails](https://github.com/morsbox/rusrails){:target='_blank'}
+-
+[#214](https://github.com/morsbox/rusrails/pull/214){:target='_blank'},
+[#223](https://github.com/morsbox/rusrails/pull/223){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[johnotander](https://github.com/johnotander){:target='_blank'}/[pixyll](https://github.com/johnotander/pixyll){:target='_blank'}
+-
+[#190](https://github.com/johnotander/pixyll/pull/190){:target='_blank'},
+[#194](https://github.com/johnotander/pixyll/pull/194){:target='_blank'},
+[#197](https://github.com/johnotander/pixyll/pull/197){:target='_blank'},
+[#236](https://github.com/johnotander/pixyll/pull/236){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[colszowka](https://github.com/colszowka){:target='_blank'}/[phantomjs-gem](https://github.com/colszowka/phantomjs-gem){:target='_blank'}
+-
+[#57](https://github.com/colszowka/phantomjs-gem/pull/57){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[rails](https://github.com/rails){:target='_blank'}/[rails](https://github.com/rails/rails){:target='_blank'}
+-
+[#20890](https://github.com/rails/rails/pull/20890){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[errbit](https://github.com/errbit){:target='_blank'}/[errbit](https://github.com/errbit/errbit){:target='_blank'}
+-
+[#895](https://github.com/errbit/errbit/pull/895){:target='_blank'}
 
 <p class="center">&mdash; 2014 &mdash;</p>
 
-* 20/03 - [Carrierwave Encrypter Decrypter #1](https://github.com/ankit8898/carrierwave_encrypter_decrypter/pull/1)
+<span class="octicon octicon-repo"></span>
+[ankit8898](https://github.com/ankit8898){:target='_blank'}/[carrierwave_encrypter_decrypter](https://github.com/ankit8898/carrierwave_encrypter_decrypter){:target='_blank'}
+-
+[#1](https://github.com/ankit8898/carrierwave_encrypter_decrypter/pull/1){:target='_blank'}
 
 <p class="center">&mdash; 2013 &mdash;</p>
 
-* 13/12 - [Monit #6](https://github.com/matiaskorhonen/monit/pull/6)
+<span class="octicon octicon-repo"></span>
+[matiaskorhonen](https://github.com/matiaskorhonen){:target='_blank'}/[monit](https://github.com/matiaskorhonen/monit){:target='_blank'}
+-
+[#6](https://github.com/matiaskorhonen/monit/pull/6){:target='_blank'}
+
+
