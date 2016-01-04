@@ -88,6 +88,12 @@ ru:
   index:
     coming_soon: Здесь пока ничего нет, но скоро появится :)
   navigation:
-    pull_requests: Pull requests
-    pull_requests_count: 20
   share_text: 'Поделиться:'
+
+text:
+  pull_requests: Pull requests
+  projects: Мои проекты
+
+counters:
+  pull_requests: 20
+  projects: 4
