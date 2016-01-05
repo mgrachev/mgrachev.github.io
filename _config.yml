@@ -91,8 +91,10 @@ ru:
   share_text: 'Поделиться:'
 
 text:
-  pull_requests: Pull requests
-  projects: Мои проекты
+  navigation:
+    pull_requests: Список pull requests на GitHub
+    projects: Мои проекты
+    about: Обо мне
 
 counters:
   pull_requests: 24
