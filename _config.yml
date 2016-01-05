@@ -39,11 +39,11 @@ bitbucket_username:
 stackoverflow_id:
 twitter_username: mgrachev
 skype_username: ifree.
+steam_username: mgrachev
 google_plus_id:
 linkedin_username:
 angellist_username:
 medium_id:
-steam_username: mgrachev
 bitcoin_url:
 paypal_url: "https://www.paypal.me/mgrachev"
 flattr_button:
@@ -99,5 +99,5 @@ text:
     about: Обо мне
 
 counters:
-  pull_requests: 24
+  pull_requests: 26
   projects: 4
