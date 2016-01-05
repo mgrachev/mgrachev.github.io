@@ -13,6 +13,8 @@ permalink: /pull_requests/
 [#242](https://github.com/johnotander/pixyll/pull/242){:target='_blank'},
 [#243](https://github.com/johnotander/pixyll/pull/243){:target='_blank'},
 [#244](https://github.com/johnotander/pixyll/pull/244){:target='_blank'}
+[#246](https://github.com/johnotander/pixyll/pull/246){:target='_blank'}
+[#247](https://github.com/johnotander/pixyll/pull/247){:target='_blank'}
 
 <p class="center">&mdash; 2015 &mdash;</p>
 
@@ -34,6 +36,12 @@ permalink: /pull_requests/
 -
 [#214](https://github.com/morsbox/rusrails/pull/214){:target='_blank'},
 [#223](https://github.com/morsbox/rusrails/pull/223){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[ctran](https://github.com/ctran){:target='_blank'}/[annotate_models](https://github.com/ctran/annotate_models){:target='_blank'} - [#274](https://github.com/ctran/annotate_models/pull/274){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[pinnymz](https://github.com/pinnymz){:target='_blank'}/[migration_comments](https://github.com/pinnymz/migration_comments){:target='_blank'} - [#24](https://github.com/pinnymz/migration_comments/pull/24){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [johnotander](https://github.com/johnotander){:target='_blank'}/[pixyll](https://github.com/johnotander/pixyll){:target='_blank'}
