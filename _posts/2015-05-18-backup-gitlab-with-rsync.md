@@ -7,7 +7,7 @@ tags: gitlab rsync cron backup hipchat whenever
 summary: "Мини-проект для автоматического резервного копирования GitLab c помощью Ruby и rsync."
 ---
 
-На днях я задался целью, полностью автоматизировать процесс резервного копирования GitLab. Для решения этой задачи я решил использовать [rsync](https://ru.wikipedia.org/wiki/Rsync). На другой машине запустил rsync-сервер. Осталось дело за малым, написать shell-скрипт и добавить его в [cron](https://ru.wikipedia.org/wiki/Cron), но я решил пойти немного другим путем...
+На днях я задался целью, полностью автоматизировать процесс резервного копирования GitLab. Для решения этой задачи я решил использовать [rsync](https://ru.wikipedia.org/wiki/Rsync){:target='_blank'}. На другой машине запустил rsync-сервер. Осталось дело за малым, написать shell-скрипт и добавить его в [cron](https://ru.wikipedia.org/wiki/Cron){:target='_blank'}, но я решил пойти немного другим путем...
 
 Задачи:
 
@@ -238,4 +238,4 @@ $ whenever --update-crontab
 
 На этом можно поставить точку, все наши GitLab-проекты теперь в полной целостности и сохранности.
 
-Исходный код: [https://github.com/mgrachev/gitlab_backup](https://github.com/mgrachev/gitlab_backup)
+Исходный код: [https://github.com/mgrachev/gitlab_backup](https://github.com/mgrachev/gitlab_backup){:target='_blank'}

@@ -28,7 +28,7 @@ summary: "Полноценное рабочее окружение на OS X 10.
 
 #### Homebrew
 
-Далее устанавливаем менеджер пакетов [Homebrew](http://brew.sh/index_ru.html). Он легко позволяет устанавливать недостающие пакеты, включая все зависимости, а так же предоставляет удобный способ их обновления. При этом система всегда остается чистой.
+Далее устанавливаем менеджер пакетов [Homebrew](http://brew.sh/index_ru.html){:target='_blank'}. Он легко позволяет устанавливать недостающие пакеты, включая все зависимости, а так же предоставляет удобный способ их обновления. При этом система всегда остается чистой.
 
 {% highlight bash %}
 $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -40,7 +40,7 @@ $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/maste
 
 #### Homebrew Cask
 
-Следующим шагом является установка [Homebrew Cask](http://caskroom.io) - расширения Homebrew, которое позволяет просто и удобно управлять обычными OS X приложениями, такими как Google Chrome или Skype.
+Следующим шагом является установка [Homebrew Cask](http://caskroom.io){:target='_blank'} - расширения Homebrew, которое позволяет просто и удобно управлять обычными OS X приложениями, такими как Google Chrome или Skype.
 
 {% highlight bash %}
 $ brew install caskroom/cask/brew-cask
@@ -54,7 +54,7 @@ $ brew cask install atom iterm2
 
 #### ZSH
 
-Далее, устанавливаем [ZSH](https://ru.wikipedia.org/wiki/Zsh) - современную командную оболочку UNIX.
+Далее, устанавливаем [ZSH](https://ru.wikipedia.org/wiki/Zsh){:target='_blank'} - современную командную оболочку UNIX.
 
 {% highlight bash %}
 $ brew install zsh
@@ -68,7 +68,7 @@ $ which zsh | sudo tee -a /etc/shells
 
 #### Oh My ZSH
 
-Затем устанавливаем [Oh My ZSH](http://ohmyz.sh) - фреймворк для управления настройками ZSH. Он включает в себя большое количество полезных функций, плагинов и тем.
+Затем устанавливаем [Oh My ZSH](http://ohmyz.sh){:target='_blank'} - фреймворк для управления настройками ZSH. Он включает в себя большое количество полезных функций, плагинов и тем.
 
 {% highlight bash %}
 $ curl -L http://install.ohmyz.sh | sh
@@ -78,8 +78,8 @@ $ curl -L http://install.ohmyz.sh | sh
 
 Для настройки ZSH, необходимо открыть файл `~/.zshrc`. В нем есть 2 главных параметра:
 
-1. `ZSH_THEME` - основная тема, которую можно выбрать [здесь](https://github.com/robbyrussell/oh-my-zsh/wiki/themes);
-2. `plugins` - список используемых плагинов, который можно посмотреть [здесь](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins).
+1. `ZSH_THEME` - основная тема, которую можно выбрать [здесь](https://github.com/robbyrussell/oh-my-zsh/wiki/themes){:target='_blank'};
+2. `plugins` - список используемых плагинов, который можно посмотреть [здесь](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins){:target='_blank'}.
 
 Для начала можно использовать следующие настройки:
 
@@ -90,7 +90,7 @@ plugins=(brew-cask brew bundler encode64 gem git-extras git gitignore heroku his
 
 #### Git
 
-После обновляем Git до последней версии, а так же устанавливаем небольшое дополнение к нему - [git-extras](https://github.com/tj/git-extras).
+После обновляем Git до последней версии, а так же устанавливаем небольшое дополнение к нему - [git-extras](https://github.com/tj/git-extras){:target='_blank'}.
 
 {% highlight bash %}
 $ brew install git git-extras
@@ -103,7 +103,7 @@ $ git config --global user.name 'Mikhail Grachev'
 $ git config --global user.email 'work@mgrachev.com'
 {% endhighlight %}
 
-Создаем `.gitignore`. Для этого можно воспользоваться сервисом [gitignore.io](https://www.gitignore.io/).
+Создаем `.gitignore`. Для этого можно воспользоваться сервисом [gitignore.io](https://www.gitignore.io/){:target='_blank'}.
 
 {% highlight bash %}
 $ curl -s 'https://www.gitignore.io/api/archives,jekyll,osx,rails,ruby,rubymine,sass,vagrant,windows' >> ~/.gitignore_global
@@ -124,7 +124,7 @@ $ git config --global push.default simple
 
 #### rbenv
 
-Далее, устанавливаем менеджер версий Ruby - [rbenv](https://github.com/sstephenson/rbenv). Почему rbenv? Ответ можно получить [здесь](https://github.com/sstephenson/rbenv/wiki/Why-rbenv%3F).
+Далее, устанавливаем менеджер версий Ruby - [rbenv](https://github.com/sstephenson/rbenv){:target='_blank'}. Почему rbenv? Ответ можно получить [здесь](https://github.com/sstephenson/rbenv/wiki/Why-rbenv%3F){:target='_blank'}.
 
 {% highlight bash %}
 $ brew install rbenv ruby-build rbenv-gem-rehash rbenv-vars rbenv-binstubs
@@ -166,7 +166,7 @@ $ zsh
 gem: --no-document
 {% endhighlight %}
 
-Более подробно про это можно узнать [здесь](http://guides.rubygems.org/command-reference/#gem-environment).
+Более подробно про это можно узнать [здесь](http://guides.rubygems.org/command-reference/#gem-environment){:target='_blank'}.
 
 Затем устанавливаем Bundler и Ruby on Rails:
 

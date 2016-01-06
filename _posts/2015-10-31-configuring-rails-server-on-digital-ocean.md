@@ -10,7 +10,7 @@ summary: "Настройка боевого Rails-сервера на DigitalOce
 
 В прошлой статье мы говорили о [настройке Rails-окружения для разработки]({{ site.url }}/2014/11/17/configuring-rails-environment-on-yosemite/). Теперь пришло время для настройки боевого сервера.
 
-Для этого необходимо зарегистрироваться на [DigitalOcean](https://www.digitalocean.com/?refcode=8168323dd7e6) (реферальная ссылка, после регистрации вы получити $10 на свой счет) и создать [Droplet](https://www.digitalocean.com/community/tutorials/how-to-create-your-first-digitalocean-droplet-virtual-server). В качестве ОС необходимо выбрать Ubuntu 14.04.
+Для этого необходимо зарегистрироваться на [DigitalOcean](https://www.digitalocean.com/?refcode=8168323dd7e6){:target='_blank'} (реферальная ссылка, после регистрации вы получити $10 на свой счет) и создать [Droplet](https://www.digitalocean.com/community/tutorials/how-to-create-your-first-digitalocean-droplet-virtual-server){:target='_blank'}. В качестве ОС необходимо выбрать Ubuntu 14.04.
 
 #### Настройка сервера
 
@@ -119,7 +119,7 @@ deploy@droplet:~$ sudo apt-get update
 deploy@droplet:~$ sudo apt-get install ntp
 {% endhighlight %}
 
-Для более комфортной работы с командной строкой, устанавливаем [Oh My ZSH](http://ohmyz.sh):
+Для более комфортной работы с командной строкой, устанавливаем [Oh My ZSH](http://ohmyz.sh){:target='_blank'}:
 
 {% highlight bash %}
 deploy@droplet:~$ sudo apt-get install git zsh
@@ -140,7 +140,7 @@ deploy@droplet:~$ sudo apt-get install redis-server postgresql libpq-dev
 deploy@droplet:~$ sudo apt-get install autoconf bison build-essential libssl-dev libyaml-dev libreadline6-dev zlib1g-dev libncurses5-dev libffi-dev libgdbm3 libgdbm-dev
 {% endhighlight %}
 
-В качестве менеджера версий Ruby, мы будем использовать [rbenv](https://github.com/sstephenson/rbenv). После установки перезапускаем `zsh`:
+В качестве менеджера версий Ruby, мы будем использовать [rbenv](https://github.com/sstephenson/rbenv){:target='_blank'}. После установки перезапускаем `zsh`:
 
 {% highlight bash %}
 deploy@droplet:~$ git clone https://github.com/sstephenson/rbenv.git ~/.rbenv
@@ -315,6 +315,6 @@ deploy@droplet:~$ sudo nginx -s reload
 
 Источники:
 
-* [Initial Server Setup with Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04);
-* [Additional Recommended Steps for New Ubuntu 14.04 Servers](https://www.digitalocean.com/community/tutorials/additional-recommended-steps-for-new-ubuntu-14-04-servers);
-* [How To Deploy a Rails App with Passenger and Nginx on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-passenger-and-nginx-on-ubuntu-14-04).
+* [Initial Server Setup with Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04){:target='_blank'};
+* [Additional Recommended Steps for New Ubuntu 14.04 Servers](https://www.digitalocean.com/community/tutorials/additional-recommended-steps-for-new-ubuntu-14-04-servers){:target='_blank'};
+* [How To Deploy a Rails App with Passenger and Nginx on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-passenger-and-nginx-on-ubuntu-14-04){:target='_blank'}.
