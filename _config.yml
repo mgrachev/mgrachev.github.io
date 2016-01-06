@@ -63,6 +63,39 @@ share_reddit: false
 share_stumbleupon: false
 share_hackernews: false
 
+text:
+  pagination:
+    newer: 'Новые'
+    older: 'Старые'
+  share_buttons:
+    text:         'Поделиться!'
+    facebook:     'Share on Facebook'
+    twitter:      'Share on Twitter'
+    googleplus:   'Share on Google+'
+    linkedin:     'Share on LinkedIn'
+    digg:         'Share on Digg'
+    tumblr:       'Share on Tumblr'
+    reddit:       'Share on Reddit'
+    stumbleupon:  'Share on StumbleUpon'
+    hackernews:   'Share on Hacker News'
+  post:
+    updated:        'Обновлено'
+    minute_read:    'минут прочитано'
+    related_posts:  'Похожие записи'
+  index:
+    coming_soon: 'Здесь пока ничего нет, но скоро появится :)'
+  navigation:
+    pull_requests:  'Список pull requests на GitHub'
+    projects:       'Мои проекты'
+    about:          'Обо мне'
+  footer:
+    available_on: 'доступен на'
+    theme:        'тема'
+
+counters:
+  pull_requests:  27
+  projects:       4
+
 # Build settings
 markdown:     kramdown
 redcarpet:
@@ -76,28 +109,3 @@ gems:
   - jekyll-sitemap
 # https://github.com/jekyll/jekyll/issues/2938
 exclude: [vendor]
-
-# Translation
-ru:
-  updated: Обновлено
-  related_posts: Похожие записи
-  footer:
-    available_on: доступен на
-    theme: тема
-  pagination:
-    newer: Новые
-    older: Старые
-  index:
-    coming_soon: Здесь пока ничего нет, но скоро появится :)
-  navigation:
-  share_text: 'Поделиться:'
-
-text:
-  navigation:
-    pull_requests: Список pull requests на GitHub
-    projects: Мои проекты
-    about: Обо мне
-
-counters:
-  pull_requests: 27
-  projects: 4
