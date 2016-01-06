@@ -40,6 +40,9 @@ permalink: /pull_requests/
 [#223](https://github.com/morsbox/rusrails/pull/223){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
+[igorbarinov](https://github.com/igorbarinov){:target='_blank'}/[awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering){:target='_blank'} - [#24](https://github.com/igorbarinov/awesome-data-engineering/pull/24){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [ctran](https://github.com/ctran){:target='_blank'}/[annotate_models](https://github.com/ctran/annotate_models){:target='_blank'} - [#274](https://github.com/ctran/annotate_models/pull/274){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
