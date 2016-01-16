@@ -7,6 +7,11 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2016 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[morsbox](https://github.com/morsbox){:target='_blank'}/[rusrails](https://github.com/morsbox/rusrails){:target='_blank'}
+-
+[#226](https://github.com/morsbox/rusrails/pull/226){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [johnotander](https://github.com/johnotander){:target='_blank'}/[pixyll](https://github.com/johnotander/pixyll){:target='_blank'}
 -
 [#241](https://github.com/johnotander/pixyll/pull/241){:target='_blank'},
@@ -52,11 +57,6 @@ permalink: /pull_requests/
 [colszowka](https://github.com/colszowka){:target='_blank'}/[phantomjs-gem](https://github.com/colszowka/phantomjs-gem){:target='_blank'}
 -
 [#57](https://github.com/colszowka/phantomjs-gem/pull/57){:target='_blank'}
-
-<span class="octicon octicon-repo"></span>
-[rails](https://github.com/rails){:target='_blank'}/[rails](https://github.com/rails/rails){:target='_blank'}
--
-[#20890](https://github.com/rails/rails/pull/20890){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [errbit](https://github.com/errbit){:target='_blank'}/[errbit](https://github.com/errbit/errbit){:target='_blank'}
