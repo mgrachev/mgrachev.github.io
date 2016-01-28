@@ -7,9 +7,26 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2016 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[rails](https://github.com/rails){:target='_blank'}/[rails](https://github.com/rails/rails){:target='_blank'}
+-
+[#23307](https://github.com/rails/rails/pull/23307){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[colszowka](https://github.com/colszowka){:target='_blank'}/[phantomjs-gem](https://github.com/colszowka/phantomjs-gem){:target='_blank'}
+-
+[#67](https://github.com/colszowka/phantomjs-gem/pull/67){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[Arachni](https://github.com/Arachni){:target='_blank'}/[arachni](https://github.com/Arachni/arachni){:target='_blank'}
+-
+[#662](https://github.com/Arachni/arachni/pull/662){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [morsbox](https://github.com/morsbox){:target='_blank'}/[rusrails](https://github.com/morsbox/rusrails){:target='_blank'}
 -
-[#226](https://github.com/morsbox/rusrails/pull/226){:target='_blank'}
+[#226](https://github.com/morsbox/rusrails/pull/226){:target='_blank'},
+[#228](https://github.com/morsbox/rusrails/pull/228){:target='_blank'},
+[#229](https://github.com/morsbox/rusrails/pull/229){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [johnotander](https://github.com/johnotander){:target='_blank'}/[pixyll](https://github.com/johnotander/pixyll){:target='_blank'}
@@ -76,5 +93,3 @@ permalink: /pull_requests/
 [matiaskorhonen](https://github.com/matiaskorhonen){:target='_blank'}/[monit](https://github.com/matiaskorhonen/monit){:target='_blank'}
 -
 [#6](https://github.com/matiaskorhonen/monit/pull/6){:target='_blank'}
-
-
