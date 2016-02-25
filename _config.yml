@@ -68,7 +68,7 @@ text:
     newer: 'Новые'
     older: 'Старые'
   share_buttons:
-    text:         'Поделиться!'
+    text:         'Поделиться:'
     facebook:     'Share on Facebook'
     twitter:      'Share on Twitter'
     googleplus:   'Share on Google+'
