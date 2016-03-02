@@ -31,7 +31,6 @@ permalink: /pull_requests/
 <span class="octicon octicon-repo"></span>
 [morsbox](https://github.com/morsbox){:target='_blank'}/[rusrails](https://github.com/morsbox/rusrails){:target='_blank'}
 -
-[#226](https://github.com/morsbox/rusrails/pull/226){:target='_blank'},
 [#228](https://github.com/morsbox/rusrails/pull/228){:target='_blank'},
 [#229](https://github.com/morsbox/rusrails/pull/229){:target='_blank'}
 
