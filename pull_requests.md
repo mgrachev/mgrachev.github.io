@@ -7,6 +7,11 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2016 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[basecamp](https://github.com/basecamp){:target='_blank'}/[marginalia](https://github.com/basecamp/marginalia){:target='_blank'}
+-
+[#54](https://github.com/basecamp/marginalia/pull/54){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [peek](https://github.com/peek){:target='_blank'}/[peek](https://github.com/peek/peek){:target='_blank'}
 -
 [#83](https://github.com/peek/peek/pull/83){:target='_blank'},
