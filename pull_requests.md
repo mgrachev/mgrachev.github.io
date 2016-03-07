@@ -7,6 +7,11 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2016 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[huacnlee](https://github.com/huacnlee){:target='_blank'}/[rails-settings-cached](https://github.com/huacnlee/rails-settings-cached){:target='_blank'}
+-
+[#90](https://github.com/huacnlee/rails-settings-cached/pull/90){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [basecamp](https://github.com/basecamp){:target='_blank'}/[marginalia](https://github.com/basecamp/marginalia){:target='_blank'}
 -
 [#54](https://github.com/basecamp/marginalia/pull/54){:target='_blank'}
@@ -54,11 +59,6 @@ permalink: /pull_requests/
 [#265](https://github.com/johnotander/pixyll/pull/265){:target='_blank'}
 
 <p class="center">&mdash; 2015 &mdash;</p>
-
-<span class="octicon octicon-repo"></span>
-[huacnlee](https://github.com/huacnlee){:target='_blank'}/[rails-settings-cached](https://github.com/huacnlee/rails-settings-cached){:target='_blank'}
--
-[#82](https://github.com/huacnlee/rails-settings-cached/pull/82){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [thoughtbot](https://github.com/thoughtbot){:target='_blank'}/[administrate](https://github.com/thoughtbot/administrate){:target='_blank'}
