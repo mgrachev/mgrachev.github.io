@@ -4,7 +4,7 @@ title: Профессиональные навыки
 permalink: /skills/
 ---
 
-###Бэкенд
+### Бэкенд
 
 Хорошее знание языка Ruby и фреймворков: Ruby on Rails, Sinatra.
 
@@ -23,13 +23,13 @@ permalink: /skills/
 
 Опыт разработки на Node.js с использованием фреймворка Express.
 
-###Базы данных
+### Базы данных
 
 С 2012 года, в качестве СУБД использую PostgreSQL, до этого работал с MySQL. Из NoSQL решений предпочитаю использовать Redis, есть опыта работы с MongoDB и Memcached.
 
 Реализовывал полнотекстовый поиск через Sphinx.
 
-###Фронтенд
+### Фронтенд
 
 Хорошие знания HTML5, CSS3 и JavaScript, в проектах использую Slim/Haml и Sass. Вместо чистого JavaScript, предпочитаю использовать CoffeeScript в связке с jQuery. 
 
@@ -38,11 +38,11 @@ permalink: /skills/
 * Фронтенд: Twitter Bootstrap, Zurb Foundation, Semantic UI;
 * JavaScript: Angular.js, Sencha Ext JS.
 
-###Тестирование
+### Тестирование
 
 Активно применяю BDD при разработке. В качестве инструментов использую RSpec, Capybara (Selenium, PhantomJS), FactoryGirl, Parallel tests. Для приемычного тестирования API и создания документации, использую RSpec API Doc Generator. Есть опыт работы с TDD и TestUnit.
 
-###Администрирование
+### Администрирование
 
 Большой опыт работы с ОС семейства Unix: OS X, Linux (Gentoo, Debian, RHEL, Ubuntu), FreeBSD:
 
@@ -53,11 +53,11 @@ permalink: /skills/
 
 В качестве веб-сервера предпочитаю использовать Nginx в связке с Phusion Passenger или Unicorn;
 
-###Развертывание
+### Развертывание
 
 Использую Capistrano 3 в качестве основного инструмента для развертывания приложения на сервере. Есть небольшой опыт работы с Chef. Для непрерывной интеграции использую TeamCity, GitLab CI, Travis CI и Codeship.
 
-###Рабочий процесс
+### Рабочий процесс
 
 С 2014 года работаю по методологии Scrum (удаленно):
 
