@@ -56,7 +56,8 @@ permalink: /pull_requests/
 [#248](https://github.com/johnotander/pixyll/pull/248){:target='_blank'},
 [#249](https://github.com/johnotander/pixyll/pull/249){:target='_blank'},
 [#252](https://github.com/johnotander/pixyll/pull/252){:target='_blank'},
-[#265](https://github.com/johnotander/pixyll/pull/265){:target='_blank'}
+[#265](https://github.com/johnotander/pixyll/pull/265){:target='_blank'},
+[#282](https://github.com/johnotander/pixyll/pull/282){:target='_blank'}
 
 <p class="center">&mdash; 2015 &mdash;</p>
 
