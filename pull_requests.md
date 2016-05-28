@@ -7,6 +7,11 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2016 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[hanami](https://github.com/hanami){:target='_blank'}/[controller](https://github.com/hanami/controller){:target='_blank'}
+-
+[#156](https://github.com/hanami/controller/pull/156){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [huacnlee](https://github.com/huacnlee){:target='_blank'}/[rails-settings-cached](https://github.com/huacnlee/rails-settings-cached){:target='_blank'}
 -
 [#90](https://github.com/huacnlee/rails-settings-cached/pull/90){:target='_blank'}
