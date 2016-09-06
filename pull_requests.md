@@ -7,6 +7,11 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2016 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[luckymarmot](https://github.com/luckymarmot){:target='_blank'}/[Paw-RubyNetHTTPCodeGenerator](https://github.com/luckymarmot/Paw-RubyNetHTTPCodeGenerator){:target='_blank'}
+-
+[#8](https://github.com/luckymarmot/Paw-RubyNetHTTPCodeGenerator/pull/8){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [hanami](https://github.com/hanami){:target='_blank'}/[utils](https://github.com/hanami/utils){:target='_blank'}
 -
 [#148](https://github.com/hanami/utils/pull/148){:target='_blank'}
