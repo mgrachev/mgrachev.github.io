@@ -5,7 +5,7 @@ author:      Грачёв Михаил
 description: "Блог Rails-разработчика"
 baseurl:     ""
 url:         "http://mgrachev.com"
-#url:         "http://localhost:4000"
+# url:         "http://localhost:4000"
 date_format: "%d/%m/%Y"
 
 # Google services
@@ -39,7 +39,7 @@ bitbucket_username:
 stackoverflow_id:
 twitter_username: mgrachev
 skype_username: ifree.
-steam_username: mgrachev
+steam_username:
 google_plus_id:
 linkedin_username:
 angellist_username:
