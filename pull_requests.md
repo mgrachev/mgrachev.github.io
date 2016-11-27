@@ -7,6 +7,16 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2016 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[hanami](https://github.com/hanami){:target='_blank'}/[hanami](https://github.com/hanami/hanami){:target='_blank'}
+-
+[#672](https://github.com/hanami/hanami/pull/672){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[hanami](https://github.com/hanami){:target='_blank'}/[hanami.github.io](https://github.com/hanami/hanami.github.io){:target='_blank'}
+-
+[#232](https://github.com/hanami/hanami.github.io/pull/232){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [luckymarmot](https://github.com/luckymarmot){:target='_blank'}/[Paw-RubyNetHTTPCodeGenerator](https://github.com/luckymarmot/Paw-RubyNetHTTPCodeGenerator){:target='_blank'}
 -
 [#8](https://github.com/luckymarmot/Paw-RubyNetHTTPCodeGenerator/pull/8){:target='_blank'}
