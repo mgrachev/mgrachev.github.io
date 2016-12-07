@@ -9,7 +9,8 @@ permalink: /pull_requests/
 <span class="octicon octicon-repo"></span>
 [hanami](https://github.com/hanami){:target='_blank'}/[hanami](https://github.com/hanami/hanami){:target='_blank'}
 -
-[#672](https://github.com/hanami/hanami/pull/672){:target='_blank'}
+[#672](https://github.com/hanami/hanami/pull/672){:target='_blank'},
+[#684](https://github.com/hanami/hanami/pull/684){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [hanami](https://github.com/hanami){:target='_blank'}/[hanami.github.io](https://github.com/hanami/hanami.github.io){:target='_blank'}
