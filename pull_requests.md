@@ -7,7 +7,13 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2016 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
-[hanami](https://github.com/davydovanton){:target='_blank'}/[hanami](https://github.com/davydovanton/awesome-hanami){:target='_blank'}
+[davydovanton](https://github.com/davydovanton){:target='_blank'}/[ossboard](https://github.com/davydovanton/ossboard){:target='_blank'}
+-
+[#13](https://github.com/davydovanton/ossboard/pull/13){:target='_blank'},
+[#14](https://github.com/davydovanton/ossboard/pull/14){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[davydovanton](https://github.com/davydovanton){:target='_blank'}/[awesome-hanami](https://github.com/davydovanton/awesome-hanami){:target='_blank'}
 -
 [#23](https://github.com/davydovanton/awesome-hanami/pull/23){:target='_blank'}
 
