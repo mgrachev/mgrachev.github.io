@@ -106,7 +106,7 @@ LC_TYPE='en_US.UTF-8'
 Запускаем команду перенастройки:
 
 {% highlight bash %}
-deploy@droplet:~$ locale-gen en_US.UTF-8
+deploy@droplet:~$ sudo locale-gen en_US.UTF-8
 deploy@droplet:~$ sudo dpkg-reconfigure locales
 {% endhighlight %}
 
