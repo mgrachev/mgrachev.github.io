@@ -4,6 +4,14 @@ title: Список pull requests на GitHub
 permalink: /pull_requests/
 ---
 
+<p class="center">&mdash; 2017 &mdash;</p>
+
+<span class="octicon octicon-repo"></span>
+[davydovanton](https://github.com/davydovanton){:target='_blank'}/[ossboard](https://github.com/davydovanton/ossboard){:target='_blank'}
+-
+[#20](https://github.com/davydovanton/ossboard/pull/20){:target='_blank'},
+[#22](https://github.com/davydovanton/ossboard/pull/22){:target='_blank'}
+
 <p class="center">&mdash; 2016 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>

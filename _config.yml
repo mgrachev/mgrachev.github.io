@@ -2,7 +2,7 @@
 title:       Блог Михаила Грачёва
 email:       work@mgrachev.com
 author:      Грачёв Михаил
-description: "Блог Rails-разработчика"
+description: "Блог Ruby-разработчика"
 baseurl:     ""
 url:         "http://mgrachev.com"
 # url:         "http://localhost:4000"
@@ -104,7 +104,7 @@ text:
   thanks: 'Спасибо что связались со мной. Я отвечу вам как можно скорее.'
 
 counters:
-  pull_requests:  46
+  pull_requests:  48
   projects:       5
 
 # Build settings
