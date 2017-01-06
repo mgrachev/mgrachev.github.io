@@ -174,7 +174,7 @@ gem: --no-document
 $ gem install bundler rails
 {% endhighlight %}
 
-После этого остается только настроить Bundler, чтобы он хранил гемы в директорию проекта `vendor/bundle`:
+После этого остается только настроить Bundler, чтобы он хранил гемы в директории проекта - `vendor/bundle`:
 
 {% highlight bash %}
 $ bundle config --global path vendor/bundle
