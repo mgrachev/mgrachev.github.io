@@ -85,7 +85,7 @@ root@droplet:~# service ssh restart
 Обратно заходим под пользователем `deploy`:
 
 {% highlight bash %}
-root@droplet:~#su - deploy
+root@droplet:~# su - deploy
 {% endhighlight %}
 
 Приступаем к настройке временной зоны. Выбираем из списка "Europe/Moscow":
