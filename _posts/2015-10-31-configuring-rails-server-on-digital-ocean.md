@@ -130,7 +130,7 @@ deploy@droplet:~$ sudo apt-get install redis-server postgresql libpq-dev
 Устанавливаем необходимые зависимости:
 
 {% highlight bash %}
-deploy@droplet:~$ sudo apt-get install git autoconf bison build-essential libssl-dev libyaml-dev libreadline6-dev zlib1g-dev libncurses5-dev libffi-dev libgdbm3 libgdbm-dev
+deploy@droplet:~$ sudo apt-get install git curl autoconf bison build-essential libssl-dev libyaml-dev libreadline6-dev zlib1g-dev libncurses5-dev libffi-dev libgdbm3 libgdbm-dev
 {% endhighlight %}
 
 В качестве менеджера версий Ruby, мы будем использовать [rbenv](https://github.com/sstephenson/rbenv){:target='_blank'}. После установки перезапускаем текущую сессию `bash`:
