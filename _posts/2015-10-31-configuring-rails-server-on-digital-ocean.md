@@ -2,7 +2,7 @@
 layout: post
 title: "Настройка Rails-сервера на DigitalOcean"
 date: 2015-10-31 16:00:00
-tags: rails ruby digitalocean ubuntu deploy redis postgresql nginx passenger rbenv zsh
+tags: rails ruby digitalocean ubuntu deploy redis postgresql nginx passenger rbenv
 summary: "Настройка боевого Rails-сервера на DigitalOcean. Шаг за шагом."
 ---
 
@@ -119,13 +119,6 @@ deploy@droplet:~$ sudo apt-get update
 deploy@droplet:~$ sudo apt-get install ntp
 {% endhighlight %}
 
-Для более комфортной работы с командной строкой, устанавливаем [Oh My ZSH](http://ohmyz.sh){:target='_blank'}:
-
-{% highlight bash %}
-deploy@droplet:~$ sudo apt-get install git zsh
-deploy@droplet:~$ sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
-{% endhighlight %}
-
 Далее устанавливаем Redis и PostgreSQL:
 
 {% highlight bash %}
@@ -140,22 +133,20 @@ deploy@droplet:~$ sudo apt-get install redis-server postgresql libpq-dev
 deploy@droplet:~$ sudo apt-get install git autoconf bison build-essential libssl-dev libyaml-dev libreadline6-dev zlib1g-dev libncurses5-dev libffi-dev libgdbm3 libgdbm-dev
 {% endhighlight %}
 
-В качестве менеджера версий Ruby, мы будем использовать [rbenv](https://github.com/sstephenson/rbenv){:target='_blank'}. После установки перезапускаем `zsh`:
+В качестве менеджера версий Ruby, мы будем использовать [rbenv](https://github.com/sstephenson/rbenv){:target='_blank'}. После установки перезапускаем текущую сессию `bash`:
 
 {% highlight bash %}
-deploy@droplet:~$ git clone https://github.com/sstephenson/rbenv.git ~/.rbenv
-deploy@droplet:~$ echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.zshrc
-deploy@droplet:~$ echo 'eval "$(rbenv init -)"' >> ~/.zshrc
-deploy@droplet:~$ exec zsh -l
+deploy@droplet:~$ git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+deploy@droplet:~$ echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+deploy@droplet:~$ echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+deploy@droplet:~$ source ~/.bashrc
 {% endhighlight %}
 
 Устанавливаем дополнительные плагины, необходимые для установки Ruby:
 
 {% highlight bash %}
-deploy@droplet:~$ git clone https://github.com/sstephenson/ruby-build.git "$(rbenv root)/plugins/ruby-build"
-deploy@droplet:~$ git clone https://github.com/sstephenson/rbenv-gem-rehash.git "$(rbenv root)/plugins/rbenv-gem-rehash"
-deploy@droplet:~$ git clone https://github.com/rkh/rbenv-update.git "$(rbenv root)/plugins/rbenv-update"
-deploy@droplet:~$ git clone https://github.com/ianheggie/rbenv-binstubs.git "$(rbenv root)"/plugins/rbenv-binstubs
+deploy@droplet:~$ git clone https://github.com/rbenv/ruby-build.git "$(rbenv root)/plugins/ruby-build"
+deploy@droplet:~$ git clone https://github.com/rbenv/rbenv-vars.git "$(rbenv root)/plugins/rbenv-vars" 
 {% endhighlight %}
 
 Находим последнюю стабильную версию Ruby:
@@ -174,12 +165,12 @@ deploy@droplet:~$ rbenv install -l
 2.3.0-dev
 {% endhighlight %}
 
-Устанавливаем Ruby и перезапускаем `zsh`:
+Устанавливаем Ruby и перезапускаем текущую сессию `bash`:
 
 {% highlight bash %}
 deploy@droplet:~$ rbenv install 2.2.3
 deploy@droplet:~$ rbenv global 2.2.3
-deploy@droplet:~$ exec zsh -l
+deploy@droplet:~$ source ~/.bashrc
 {% endhighlight %}
 
 Устанавливаем и настраиваем Bundler, чтобы он хранил все гемы в директори проекта:
