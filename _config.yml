@@ -104,7 +104,7 @@ text:
   thanks: 'Спасибо что связались со мной. Я отвечу вам как можно скорее.'
 
 counters:
-  pull_requests:  51
+  pull_requests:  53
   projects:       5
 
 # Build settings
