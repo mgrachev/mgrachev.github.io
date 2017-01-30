@@ -7,6 +7,16 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2017 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[hanami](https://github.com/hanami){:target='_blank'}/[controller](https://github.com/hanami/controller){:target='_blank'}
+-
+[#207](https://github.com/hanami/controller/pull/207){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[hanami](https://github.com/hanami){:target='_blank'}/[view](https://github.com/hanami/view){:target='_blank'}
+-
+[#117](https://github.com/hanami/view/pull/117){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [hanami](https://github.com/hanami){:target='_blank'}/[hanami.github.io](https://github.com/hanami/hanami.github.io){:target='_blank'}
 -
 [#262](https://github.com/hanami/hanami.github.io/pull/262){:target='_blank'}
