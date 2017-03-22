@@ -7,6 +7,11 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2017 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[mmozuras](https://github.com/mmozuras){:target='_blank'}/[pronto-fasterer](https://github.com/mmozuras/pronto-fasterer){:target='_blank'}
+-
+[#3](https://github.com/mmozuras/pronto-fasterer/pull/3){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [hanami](https://github.com/hanami){:target='_blank'}/[controller](https://github.com/hanami/controller){:target='_blank'}
 -
 [#207](https://github.com/hanami/controller/pull/207){:target='_blank'}
