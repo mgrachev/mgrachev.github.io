@@ -27,6 +27,11 @@ permalink: /pull_requests/
 [#262](https://github.com/hanami/hanami.github.io/pull/262){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
+[jodosha](https://github.com/jodosha){:target='_blank'}/[hanami-fabrication](https://github.com/jodosha/hanami-fabrication){:target='_blank'}
+-
+[#1](https://github.com/jodosha/hanami-fabrication/pull/1){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [davydovanton](https://github.com/davydovanton){:target='_blank'}/[ossboard](https://github.com/davydovanton/ossboard){:target='_blank'}
 -
 [#20](https://github.com/davydovanton/ossboard/pull/20){:target='_blank'},
