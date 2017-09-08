@@ -7,6 +7,11 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2017 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[mina-deploy](https://github.com/mina-deploy){:target='_blank'}/[mina](https://github.com/mina-deploy/mina){:target='_blank'}
+-
+[#495](https://github.com/mina-deploy/mina/pull/495){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [mmozuras](https://github.com/mmozuras){:target='_blank'}/[pronto-fasterer](https://github.com/mmozuras/pronto-fasterer){:target='_blank'}
 -
 [#3](https://github.com/mmozuras/pronto-fasterer/pull/3){:target='_blank'}
