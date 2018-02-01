@@ -4,6 +4,13 @@ title: Список pull requests на GitHub
 permalink: /pull_requests/
 ---
 
+<p class="center">&mdash; 2018 &mdash;</p>
+
+<span class="octicon octicon-repo"></span>
+[planetjekyll](https://github.com/planetjekyll){:target='_blank'}/[awesome-jekyll-themes](https://github.com/planetjekyll/awesome-jekyll-themes){:target='_blank'}
+-
+[#17](https://github.com/planetjekyll/awesome-jekyll-themes/pull/17){:target='_blank'}
+
 <p class="center">&mdash; 2017 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
