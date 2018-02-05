@@ -105,7 +105,7 @@ text:
 
 counters:
   pull_requests:  59
-  projects:       5
+  projects:       6
 
 # Build settings
 markdown:     kramdown
