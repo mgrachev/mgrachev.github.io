@@ -7,6 +7,11 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2018 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[Homebrew](https://github.com/Homebrew){:target='_blank'}/[homebrew-core](https://github.com/Homebrew/homebrew-core){:target='_blank'}
+-
+[#24737](https://github.com/Homebrew/homebrew-core/pull/24737){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [planetjekyll](https://github.com/planetjekyll){:target='_blank'}/[awesome-jekyll-themes](https://github.com/planetjekyll/awesome-jekyll-themes){:target='_blank'}
 -
 [#17](https://github.com/planetjekyll/awesome-jekyll-themes/pull/17){:target='_blank'}
