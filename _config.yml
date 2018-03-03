@@ -21,7 +21,6 @@ animated:             false
 show_related_posts:   true
 show_post_footers:    false
 show_social_icons:    true
-ajaxify_contact_form: false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
@@ -88,19 +87,9 @@ text:
     pull_requests:  'Список pull requests на GitHub'
     projects:       'Мои проекты'
     about:          'Обо мне'
-    contact:        'Обратная связь'
   footer:
     available_on: 'доступен на'
     theme:        'тема'
-  contact:
-    email:    'Ваш Email'
-    content:  'Что бы вы хотели сказать?'
-    subject:  'Обратная связь'
-    submit:   'Отправить'
-    ajax:
-      sending:  'Отправка...'
-      sent:     'Сообщение отправлено!'
-      error:    'Ошибка!'
   thanks: 'Спасибо что связались со мной. Я отвечу вам как можно скорее.'
 
 counters:
