@@ -37,16 +37,16 @@ github_username: mgrachev
 bitbucket_username:
 stackoverflow_id:
 twitter_username: mgrachev
-skype_username: ifree.
+skype_username:
 steam_username:
 google_plus_id:
 linkedin_username:
 angellist_username:
 medium_id:
 bitcoin_url:
-paypal_url: "https://www.paypal.me/mgrachev"
+paypal_url:
 flattr_button:
-yandex_money_url: "https://money.yandex.ru/to/41001477340760"
+yandex_money_url:
 
 # Post sharing icons
 show_sharing_icons: true
