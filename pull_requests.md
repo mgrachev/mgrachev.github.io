@@ -10,7 +10,8 @@ permalink: /pull_requests/
 [goreleaser](https://github.com/goreleaser){:target='_blank'}/[goreleaser](https://github.com/goreleaser/goreleaser){:target='_blank'}
 -
 [#732](https://github.com/goreleaser/goreleaser/pull/732){:target='_blank'},
-[#735](https://github.com/goreleaser/goreleaser/pull/735){:target='_blank'}
+[#735](https://github.com/goreleaser/goreleaser/pull/735){:target='_blank'},
+[#745](https://github.com/goreleaser/goreleaser/pull/745){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [Homebrew](https://github.com/Homebrew){:target='_blank'}/[homebrew-core](https://github.com/Homebrew/homebrew-core){:target='_blank'}
