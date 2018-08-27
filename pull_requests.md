@@ -7,6 +7,11 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2018 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[canonical-docs](https://github.com/canonical-docs){:target='_blank'}/[snappy-docs](https://github.com/canonical-docs/snappy-docs){:target='_blank'}
+-
+[#437](https://github.com/canonical-docs/snappy-docs/pull/437){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [goreleaser](https://github.com/goreleaser){:target='_blank'}/[goreleaser](https://github.com/goreleaser/goreleaser){:target='_blank'}
 -
 [#732](https://github.com/goreleaser/goreleaser/pull/732){:target='_blank'},
@@ -14,7 +19,8 @@ permalink: /pull_requests/
 [#745](https://github.com/goreleaser/goreleaser/pull/745){:target='_blank'},
 [#749](https://github.com/goreleaser/goreleaser/pull/749){:target='_blank'},
 [#762](https://github.com/goreleaser/goreleaser/pull/762){:target='_blank'},
-[#768](https://github.com/goreleaser/goreleaser/pull/768){:target='_blank'}
+[#768](https://github.com/goreleaser/goreleaser/pull/768){:target='_blank'},
+[#776](https://github.com/goreleaser/goreleaser/pull/776){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [Homebrew](https://github.com/Homebrew){:target='_blank'}/[homebrew-core](https://github.com/Homebrew/homebrew-core){:target='_blank'}
