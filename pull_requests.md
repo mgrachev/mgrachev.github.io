@@ -7,6 +7,16 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2018 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[iCHAIT](https://github.com/iCHAIT){:target='_blank'}/[awesome-macOS](https://github.com/iCHAIT/awesome-macOS){:target='_blank'}
+-
+[#503](https://github.com/iCHAIT/awesome-macOS/pull/503){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[serhii-londar](https://github.com/serhii-londar){:target='_blank'}/[open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps){:target='_blank'}
+-
+[#289](https://github.com/serhii-londar/open-source-mac-os-apps/pull/289){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [canonical-docs](https://github.com/canonical-docs){:target='_blank'}/[snappy-docs](https://github.com/canonical-docs/snappy-docs){:target='_blank'}
 -
 [#437](https://github.com/canonical-docs/snappy-docs/pull/437){:target='_blank'}
