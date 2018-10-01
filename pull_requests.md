@@ -14,7 +14,8 @@ permalink: /pull_requests/
 <span class="octicon octicon-repo"></span>
 [serhii-londar](https://github.com/serhii-londar){:target='_blank'}/[open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps){:target='_blank'}
 -
-[#289](https://github.com/serhii-londar/open-source-mac-os-apps/pull/289){:target='_blank'}
+[#289](https://github.com/serhii-londar/open-source-mac-os-apps/pull/289){:target='_blank'},
+[#296](https://github.com/serhii-londar/open-source-mac-os-apps/pull/296){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [canonical-docs](https://github.com/canonical-docs){:target='_blank'}/[snappy-docs](https://github.com/canonical-docs/snappy-docs){:target='_blank'}
