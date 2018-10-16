@@ -7,6 +7,56 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2018 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[docker](https://github.com/docker){:target='_blank'}/[infrakit](https://github.com/docker/infrakit){:target='_blank'}
+-
+[#915](https://github.com/docker/infrakit/pull/915){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[ethereum](https://github.com/ethereum){:target='_blank'}/[go-ethereum](https://github.com/ethereum/go-ethereum){:target='_blank'}
+-
+[#17908](https://github.com/ethereum/go-ethereum/pull/17908){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[avelino](https://github.com/avelino){:target='_blank'}/[awesome-go](https://github.com/avelino/awesome-go){:target='_blank'}
+-
+[#2161](https://github.com/avelino/awesome-go/pull/2161){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[docker](https://github.com/docker){:target='_blank'}/[labs](https://github.com/docker/labs){:target='_blank'}
+-
+[#431](https://github.com/docker/labs/pull/431){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[rails](https://github.com/rails){:target='_blank'}/[globalid](https://github.com/rails/globalid){:target='_blank'}
+-
+[#110](https://github.com/rails/globalid/pull/110){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[h4cc](https://github.com/h4cc){:target='_blank'}/[awesome-elixir](https://github.com/h4cc/awesome-elixir){:target='_blank'}
+-
+[#4495](https://github.com/h4cc/awesome-elixir/pull/4495){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[markets](https://github.com/markets){:target='_blank'}/[awesome-ruby](https://github.com/markets/awesome-ruby){:target='_blank'}
+-
+[#851](https://github.com/markets/awesome-ruby/pull/851){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[hanami](https://github.com/hanami){:target='_blank'}/[controller](https://github.com/hanami/controller){:target='_blank'}
+-
+[#276](https://github.com/hanami/controller/pull/276){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[github](https://github.com/github){:target='_blank'}/[linguist](https://github.com/github/linguist){:target='_blank'}
+-
+[#4296](https://github.com/github/linguist/pull/4296){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[google](https://github.com/google){:target='_blank'}/[go-github](https://github.com/google/go-github){:target='_blank'}
+-
+[#1033](https://github.com/google/go-github/pull/1033){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [iCHAIT](https://github.com/iCHAIT){:target='_blank'}/[awesome-macOS](https://github.com/iCHAIT/awesome-macOS){:target='_blank'}
 -
 [#503](https://github.com/iCHAIT/awesome-macOS/pull/503){:target='_blank'}
