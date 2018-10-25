@@ -7,6 +7,26 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2018 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[docker](https://github.com/docker){:target='_blank'}/[distribution](https://github.com/docker/distribution){:target='_blank'}
+-
+[#2734](https://github.com/docker/distribution/pull/2734){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[helm](https://github.com/helm){:target='_blank'}/[charts](https://github.com/helm/charts){:target='_blank'}
+-
+[#8632](https://github.com/helm/charts/pull/8632){:target='_blank'},
+[#8679](https://github.com/helm/charts/pull/8679){:target='_blank'},
+[#8680](https://github.com/helm/charts/pull/8680){:target='_blank'},
+[#8695](https://github.com/helm/charts/pull/8695){:target='_blank'},
+[#8696](https://github.com/helm/charts/pull/8696){:target='_blank'},
+[#8699](https://github.com/helm/charts/pull/8699){:target='_blank'},
+[#8700](https://github.com/helm/charts/pull/8700){:target='_blank'},
+[#8701](https://github.com/helm/charts/pull/8701){:target='_blank'},
+[#8702](https://github.com/helm/charts/pull/8702){:target='_blank'},
+[#8703](https://github.com/helm/charts/pull/8703){:target='_blank'},
+[#8704](https://github.com/helm/charts/pull/8704){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [docker](https://github.com/docker){:target='_blank'}/[infrakit](https://github.com/docker/infrakit){:target='_blank'}
 -
 [#915](https://github.com/docker/infrakit/pull/915){:target='_blank'}
