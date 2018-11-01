@@ -7,6 +7,27 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2018 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[docker](https://github.com/docker){:target='_blank'}/[machine](https://github.com/docker/machine){:target='_blank'}
+-
+[#4591](https://github.com/docker/machine/pull/4591){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[micro](https://github.com/micro){:target='_blank'}/[docs](https://github.com/micro/docs){:target='_blank'}
+-
+[#3](https://github.com/micro/docs/pull/3){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[erlang](https://github.com/erlang){:target='_blank'}/[otp](https://github.com/erlang/otp){:target='_blank'}
+-
+[#1984](https://github.com/erlang/otp/pull/1984){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[micro](https://github.com/micro){:target='_blank'}/[micro](https://github.com/micro/micro){:target='_blank'}
+-
+[#208](https://github.com/micro/micro/pull/208){:target='_blank'},
+[#209](https://github.com/micro/micro/pull/209){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [docker](https://github.com/docker){:target='_blank'}/[distribution](https://github.com/docker/distribution){:target='_blank'}
 -
 [#2734](https://github.com/docker/distribution/pull/2734){:target='_blank'}
