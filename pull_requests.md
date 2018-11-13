@@ -7,6 +7,12 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2018 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[jordan-wright](https://github.com/jordan-wright){:target='_blank'}/[email](https://github.com/jordan-wright/email){:target='_blank'}
+-
+[#72](https://github.com/jordan-wright/email/pull/72){:target='_blank'},
+[#73](https://github.com/jordan-wright/email/pull/73){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [docker](https://github.com/docker){:target='_blank'}/[machine](https://github.com/docker/machine){:target='_blank'}
 -
 [#4591](https://github.com/docker/machine/pull/4591){:target='_blank'}
@@ -25,7 +31,9 @@ permalink: /pull_requests/
 [micro](https://github.com/micro){:target='_blank'}/[micro](https://github.com/micro/micro){:target='_blank'}
 -
 [#208](https://github.com/micro/micro/pull/208){:target='_blank'},
-[#209](https://github.com/micro/micro/pull/209){:target='_blank'}
+[#209](https://github.com/micro/micro/pull/209){:target='_blank'},
+[#211](https://github.com/micro/micro/pull/211){:target='_blank'},
+[#212](https://github.com/micro/micro/pull/212){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [docker](https://github.com/docker){:target='_blank'}/[distribution](https://github.com/docker/distribution){:target='_blank'}
