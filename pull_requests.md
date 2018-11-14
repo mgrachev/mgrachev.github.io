@@ -7,6 +7,12 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2018 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[micro](https://github.com/micro){:target='_blank'}/[go-micro](https://github.com/micro/go-micro){:target='_blank'}
+-
+[#321](https://github.com/micro/go-micro/pull/321){:target='_blank'},
+[#322](https://github.com/micro/go-micro/pull/322){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [jordan-wright](https://github.com/jordan-wright){:target='_blank'}/[email](https://github.com/jordan-wright/email){:target='_blank'}
 -
 [#72](https://github.com/jordan-wright/email/pull/72){:target='_blank'},
