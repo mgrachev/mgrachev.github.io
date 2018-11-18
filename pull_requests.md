@@ -7,6 +7,11 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2018 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[micro](https://github.com/micro){:target='_blank'}/[go-plugins](https://github.com/micro/go-plugins){:target='_blank'}
+-
+[#245](https://github.com/micro/go-plugins/pull/245){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [kardianos](https://github.com/kardianos){:target='_blank'}/[govendor](https://github.com/kardianos/govendor){:target='_blank'}
 -
 [#416](https://github.com/kardianos/govendor/pull/416){:target='_blank'},
