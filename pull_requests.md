@@ -15,7 +15,8 @@ permalink: /pull_requests/
 [kardianos](https://github.com/kardianos){:target='_blank'}/[govendor](https://github.com/kardianos/govendor){:target='_blank'}
 -
 [#416](https://github.com/kardianos/govendor/pull/416){:target='_blank'},
-[#417](https://github.com/kardianos/govendor/pull/417){:target='_blank'}
+[#417](https://github.com/kardianos/govendor/pull/417){:target='_blank'},
+[#418](https://github.com/kardianos/govendor/pull/418){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [micro](https://github.com/micro){:target='_blank'}/[go-micro](https://github.com/micro/go-micro){:target='_blank'}
