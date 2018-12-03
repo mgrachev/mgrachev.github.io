@@ -7,7 +7,7 @@ tags: apple yosemite ruby rails git homebrew zsh rbenv rubygems bundler
 summary: "Полноценное рабочее окружение на OS X 10.10 Yosemite: Ruby, Homebrew, Oh My ZSH, rbenv и многое другое."
 ---
 
-![OS X Yosemite]({{ site.url }}/assets/images/2014-11-14-configuring-rails-environment-on-yosemite/Q6qdz69S3mw.png)
+![OS X Yosemite]({{ site.url }}/assets/images/2014-11-14-configuring-rails-environment-on-yosemite/Q6qdz69S3mw.png){: .center-image }
 
 В прошлом месяце, компания Apple, выпустила новую версию своей операционной системы - OS X 10.10 Yosemite. В этой статье я расскажу, как развернуть полноценное рабочее окружение на новой ОС от Apple.
 
@@ -24,7 +24,7 @@ summary: "Полноценное рабочее окружение на OS X 10.
 
 Первым делом, устанавливаем gcc и git, которые входят в состав Command Line Developer Tools. Для этого, запускаем терминал и набираем команду `git`. Появится диалоговое окно, которое предложит установить недостающие компоненты.
 
-![Command Line Developer Tools]({{ site.url }}/assets/images/2014-11-14-configuring-rails-environment-on-yosemite/lkP4rpmzyMY.png)
+![Command Line Developer Tools]({{ site.url }}/assets/images/2014-11-14-configuring-rails-environment-on-yosemite/lkP4rpmzyMY.png){: .center-image }
 
 #### Homebrew
 
@@ -36,7 +36,7 @@ $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/maste
 
 После установки, запускаем команду `brew doctor`, чтобы проверить систему на наличие потенциальных проблем.
 
-![Brew doctor]({{ site.url }}/assets/images/2014-11-14-configuring-rails-environment-on-yosemite/pwC_XCoMO6s.png)
+![Brew doctor]({{ site.url }}/assets/images/2014-11-14-configuring-rails-environment-on-yosemite/pwC_XCoMO6s.png){: .center-image }
 
 #### Homebrew Cask
 
@@ -74,7 +74,7 @@ $ which zsh | sudo tee -a /etc/shells
 $ curl -L http://install.ohmyz.sh | sh
 {% endhighlight %}
 
-![Oh My ZSH]({{ site.url }}/assets/images/2014-11-14-configuring-rails-environment-on-yosemite/xxCEQdwrSyE.png)
+![Oh My ZSH]({{ site.url }}/assets/images/2014-11-14-configuring-rails-environment-on-yosemite/xxCEQdwrSyE.png){: .center-image }
 
 Для настройки ZSH, необходимо открыть файл `~/.zshrc`. В нем есть 2 главных параметра:
 

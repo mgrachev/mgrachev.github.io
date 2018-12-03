@@ -14,7 +14,7 @@ summary: "Решаем проблему работы WebSocket-сервера ч
 
 Реализовав задачу и отправив все изменения на сервер, я столкнулся с проблемой подключения к WebSocket серверу через браузер Safari.
 
-![Safari]({{ site.url }}/assets/images/2016-02-25-configuring-passenger-to-work-with-action-cable/2bjj7navgRrodbRv.png)
+![Safari]({{ site.url }}/assets/images/2016-02-25-configuring-passenger-to-work-with-action-cable/2bjj7navgRrodbRv.png){: .center-image }
 
 ### Phusion Passenger
 

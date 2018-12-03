@@ -6,7 +6,7 @@ tags: rails ruby digitalocean ubuntu deploy redis postgresql nginx passenger rbe
 summary: "Настройка боевого Rails-сервера на DigitalOcean. Шаг за шагом."
 ---
 
-![DigitalOcean]({{ site.url }}/assets/images/2015-10-31-configuring-rails-server-on-digital-ocean/VcTfDWmDK_a8D6jAz8cDJQ.png)
+![DigitalOcean]({{ site.url }}/assets/images/2015-10-31-configuring-rails-server-on-digital-ocean/VcTfDWmDK_a8D6jAz8cDJQ.png){: .center-image }
 
 В прошлой статье мы говорили о [настройке Rails-окружения для разработки]({{ site.url }}/2014/11/17/configuring-rails-environment-on-yosemite/). Теперь пришло время для настройки боевого сервера.
 

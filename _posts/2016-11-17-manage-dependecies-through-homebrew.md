@@ -6,7 +6,7 @@ tags: homebrew linuxbrew bundle bundler ruby zsh
 summary: "Управление внешними зависимостями проекта c помощью Homebrew Bundle."
 ---
 
-![Homebrew]({{ site.url }}/assets/images/2016-11-17-manage-dependecies-through-homebrew/2960edcf98e4b.png)
+![Homebrew]({{ site.url }}/assets/images/2016-11-17-manage-dependecies-through-homebrew/2960edcf98e4b.png){: .center-image }
 
 Для управления зависимостями в проектах на Ruby мы используем [Bundler](http://bundler.io){:target='_blank'}. Он позволяет с легкостью устанавливать в проект необходимые нам библиотеки, вместе со всеми зависимостями.
 

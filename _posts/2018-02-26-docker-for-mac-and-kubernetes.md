@@ -10,7 +10,7 @@ summary: "Небольшой эксперимент с Docker for Mac и Kuberne
 
 На момент написания статьи, у меня установлена самая последняя версия Docker for Mac - 18.02.0.
 
-![Docker For Mac]({{ site.url }}/assets/images/2018-02-26-docker-for-mac-and-kubernetes/docker-ja2lcwo8.png)
+![Docker For Mac]({{ site.url }}/assets/images/2018-02-26-docker-for-mac-and-kubernetes/docker-ja2lcwo8.png){: .center-image }
 
 Для эксперимента, я написал простой генератор коротких ссылок на Go - [brevity](https://github.com/mgrachev/brevity){:target='_blank'}. Сервис разделен на 2 части: API для генерация коротких ссылок и их обработчик. Для хранения данных используется PostgreSQL.
 
