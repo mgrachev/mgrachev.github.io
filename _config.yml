@@ -4,7 +4,7 @@ email:       work@mgrachev.com
 author:      Грачёв Михаил
 description: "Блог разработчика и DevOps-инженера"
 baseurl:     ""
-url:         "http://mgrachev.com"
+url:         "https://www.mgrachev.com"
 # url:         "http://localhost:4000"
 date_format: "%d/%m/%Y"
 
