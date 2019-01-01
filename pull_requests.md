@@ -7,6 +7,16 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2018 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[nlopes](https://github.com/nlopes){:target='_blank'}/[slack](https://github.com/nlopes/slack){:target='_blank'}
+-
+[#452](https://github.com/nlopes/slack/pull/452){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[trailblazer](https://github.com/trailblazer){:target='_blank'}/[trailblazer](https://github.com/trailblazer/trailblazer){:target='_blank'}
+-
+[#230](https://github.com/trailblazer/trailblazer/pull/230){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [micro](https://github.com/micro){:target='_blank'}/[go-plugins](https://github.com/micro/go-plugins){:target='_blank'}
 -
 [#245](https://github.com/micro/go-plugins/pull/245){:target='_blank'}
@@ -133,11 +143,6 @@ permalink: /pull_requests/
 -
 [#289](https://github.com/serhii-londar/open-source-mac-os-apps/pull/289){:target='_blank'},
 [#296](https://github.com/serhii-londar/open-source-mac-os-apps/pull/296){:target='_blank'}
-
-<span class="octicon octicon-repo"></span>
-[canonical-docs](https://github.com/canonical-docs){:target='_blank'}/[snappy-docs](https://github.com/canonical-docs/snappy-docs){:target='_blank'}
--
-[#437](https://github.com/canonical-docs/snappy-docs/pull/437){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [goreleaser](https://github.com/goreleaser){:target='_blank'}/[goreleaser](https://github.com/goreleaser/goreleaser){:target='_blank'}
