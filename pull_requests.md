@@ -4,6 +4,33 @@ title: Список pull requests на GitHub
 permalink: /pull_requests/
 ---
 
+<p class="center">&mdash; 2019 &mdash;</p>
+
+<span class="octicon octicon-repo"></span>
+[goreleaser](https://github.com/goreleaser){:target='_blank'}/[goreleaser](https://github.com/goreleaser/goreleaser){:target='_blank'}
+-
+[#993](https://github.com/goreleaser/goreleaser/pull/993){:target='_blank'},
+[#994](https://github.com/goreleaser/goreleaser/pull/994){:target='_blank'},
+[#995](https://github.com/goreleaser/goreleaser/pull/995){:target='_blank'},
+[#996](https://github.com/goreleaser/goreleaser/pull/996){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[reviewdog](https://github.com/reviewdog){:target='_blank'}/[reviewdog](https://github.com/reviewdog/reviewdog){:target='_blank'}
+-
+[#212](https://github.com/reviewdog/reviewdog/pull/212){:target='_blank'},
+[#213](https://github.com/reviewdog/reviewdog/pull/213){:target='_blank'},
+[#214](https://github.com/reviewdog/reviewdog/pull/214){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[go101](https://github.com/go101){:target='_blank'}/[go101](https://github.com/go101/go101){:target='_blank'}
+-
+[#111](https://github.com/go101/go101/pull/111){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[iCHAIT](https://github.com/iCHAIT){:target='_blank'}/[awesome-macOS](https://github.com/iCHAIT/awesome-macOS){:target='_blank'}
+-
+[#502](https://github.com/iCHAIT/awesome-macOS/pull/502){:target='_blank'}
+
 <p class="center">&mdash; 2018 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
