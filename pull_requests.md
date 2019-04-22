@@ -7,12 +7,21 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2019 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[Homebrew](https://github.com/Homebrew){:target='_blank'}/[homebrew-core](https://github.com/Homebrew/homebrew-core){:target='_blank'}
+-
+[#39022](https://github.com/Homebrew/homebrew-core/pull/39022){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [goreleaser](https://github.com/goreleaser){:target='_blank'}/[goreleaser](https://github.com/goreleaser/goreleaser){:target='_blank'}
 -
 [#993](https://github.com/goreleaser/goreleaser/pull/993){:target='_blank'},
 [#994](https://github.com/goreleaser/goreleaser/pull/994){:target='_blank'},
 [#995](https://github.com/goreleaser/goreleaser/pull/995){:target='_blank'},
-[#996](https://github.com/goreleaser/goreleaser/pull/996){:target='_blank'}
+[#996](https://github.com/goreleaser/goreleaser/pull/996){:target='_blank'},
+[#999](https://github.com/goreleaser/goreleaser/pull/999){:target='_blank'},
+[#1010](https://github.com/goreleaser/goreleaser/pull/1010){:target='_blank'},
+[#1011](https://github.com/goreleaser/goreleaser/pull/1011){:target='_blank'},
+[#1012](https://github.com/goreleaser/goreleaser/pull/1012){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [reviewdog](https://github.com/reviewdog){:target='_blank'}/[reviewdog](https://github.com/reviewdog/reviewdog){:target='_blank'}
