@@ -7,6 +7,14 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2019 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[michaelsauter](https://github.com/michaelsauter){:target='_blank'}/[crane](https://github.com/michaelsauter/crane){:target='_blank'}
+-
+[#345](https://github.com/michaelsauter/crane/pull/345){:target='_blank'},
+[#346](https://github.com/michaelsauter/crane/pull/346){:target='_blank'},
+[#347](https://github.com/michaelsauter/crane/pull/347){:target='_blank'},
+[#348](https://github.com/michaelsauter/crane/pull/348){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [Homebrew](https://github.com/Homebrew){:target='_blank'}/[homebrew-core](https://github.com/Homebrew/homebrew-core){:target='_blank'}
 -
 [#39022](https://github.com/Homebrew/homebrew-core/pull/39022){:target='_blank'}
