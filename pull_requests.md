@@ -31,7 +31,9 @@ permalink: /pull_requests/
 [#999](https://github.com/goreleaser/goreleaser/pull/999){:target='_blank'},
 [#1010](https://github.com/goreleaser/goreleaser/pull/1010){:target='_blank'},
 [#1011](https://github.com/goreleaser/goreleaser/pull/1011){:target='_blank'},
-[#1012](https://github.com/goreleaser/goreleaser/pull/1012){:target='_blank'}
+[#1012](https://github.com/goreleaser/goreleaser/pull/1012){:target='_blank'},
+[#1032](https://github.com/goreleaser/goreleaser/pull/1032){:target='_blank'},
+[#1048](https://github.com/goreleaser/goreleaser/pull/1048){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [reviewdog](https://github.com/reviewdog){:target='_blank'}/[reviewdog](https://github.com/reviewdog/reviewdog){:target='_blank'}
