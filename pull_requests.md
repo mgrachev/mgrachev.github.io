@@ -7,6 +7,14 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2019 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[ruRust](https://github.com/ruRust){:target='_blank'}/[rust_book_2ed](https://github.com/ruRust/rust_book_2ed){:target='_blank'}
+-
+[#83](https://github.com/ruRust/rust_book_2ed/pull/83){:target='_blank'},
+[#90](https://github.com/ruRust/rust_book_2ed/pull/90){:target='_blank'},
+[#91](https://github.com/ruRust/rust_book_2ed/pull/91){:target='_blank'},
+[#92](https://github.com/ruRust/rust_book_2ed/pull/92){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [michaelsauter](https://github.com/michaelsauter){:target='_blank'}/[crane](https://github.com/michaelsauter/crane){:target='_blank'}
 -
 [#345](https://github.com/michaelsauter/crane/pull/345){:target='_blank'},
