@@ -7,6 +7,11 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2019 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[trailblazer](https://github.com/trailblazer){:target='_blank'}/[reform](https://github.com/trailblazer/reform){:target='_blank'}
+-
+[#466](https://github.com/trailblazer/reform/pull/466){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [ruRust](https://github.com/ruRust){:target='_blank'}/[rust_book_2ed](https://github.com/ruRust/rust_book_2ed){:target='_blank'}
 -
 [#83](https://github.com/ruRust/rust_book_2ed/pull/83){:target='_blank'},
@@ -25,7 +30,18 @@ permalink: /pull_requests/
 [#102](https://github.com/ruRust/rust_book_2ed/pull/102){:target='_blank'},
 [#103](https://github.com/ruRust/rust_book_2ed/pull/103){:target='_blank'},
 [#104](https://github.com/ruRust/rust_book_2ed/pull/104){:target='_blank'},
-[#105](https://github.com/ruRust/rust_book_2ed/pull/105){:target='_blank'}
+[#105](https://github.com/ruRust/rust_book_2ed/pull/105){:target='_blank'},
+[#106](https://github.com/ruRust/rust_book_2ed/pull/106){:target='_blank'},
+[#107](https://github.com/ruRust/rust_book_2ed/pull/107){:target='_blank'},
+[#108](https://github.com/ruRust/rust_book_2ed/pull/108){:target='_blank'},
+[#109](https://github.com/ruRust/rust_book_2ed/pull/109){:target='_blank'},
+[#110](https://github.com/ruRust/rust_book_2ed/pull/110){:target='_blank'},
+[#111](https://github.com/ruRust/rust_book_2ed/pull/111){:target='_blank'},
+[#112](https://github.com/ruRust/rust_book_2ed/pull/112){:target='_blank'},
+[#113](https://github.com/ruRust/rust_book_2ed/pull/113){:target='_blank'},
+[#114](https://github.com/ruRust/rust_book_2ed/pull/114){:target='_blank'},
+[#115](https://github.com/ruRust/rust_book_2ed/pull/115){:target='_blank'},
+[#116](https://github.com/ruRust/rust_book_2ed/pull/116){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [michaelsauter](https://github.com/michaelsauter){:target='_blank'}/[crane](https://github.com/michaelsauter/crane){:target='_blank'}
@@ -54,7 +70,10 @@ permalink: /pull_requests/
 [#1011](https://github.com/goreleaser/goreleaser/pull/1011){:target='_blank'},
 [#1012](https://github.com/goreleaser/goreleaser/pull/1012){:target='_blank'},
 [#1032](https://github.com/goreleaser/goreleaser/pull/1032){:target='_blank'},
-[#1048](https://github.com/goreleaser/goreleaser/pull/1048){:target='_blank'}
+[#1048](https://github.com/goreleaser/goreleaser/pull/1048){:target='_blank'},
+[#1111](https://github.com/goreleaser/goreleaser/pull/1111){:target='_blank'},
+[#1112](https://github.com/goreleaser/goreleaser/pull/1112){:target='_blank'},
+[#1113](https://github.com/goreleaser/goreleaser/pull/1113){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [reviewdog](https://github.com/reviewdog){:target='_blank'}/[reviewdog](https://github.com/reviewdog/reviewdog){:target='_blank'}
