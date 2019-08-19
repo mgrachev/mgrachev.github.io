@@ -41,7 +41,21 @@ permalink: /pull_requests/
 [#113](https://github.com/ruRust/rust_book_2ed/pull/113){:target='_blank'},
 [#114](https://github.com/ruRust/rust_book_2ed/pull/114){:target='_blank'},
 [#115](https://github.com/ruRust/rust_book_2ed/pull/115){:target='_blank'},
-[#116](https://github.com/ruRust/rust_book_2ed/pull/116){:target='_blank'}
+[#116](https://github.com/ruRust/rust_book_2ed/pull/116){:target='_blank'},
+[#117](https://github.com/ruRust/rust_book_2ed/pull/117){:target='_blank'},
+[#118](https://github.com/ruRust/rust_book_2ed/pull/118){:target='_blank'},
+[#119](https://github.com/ruRust/rust_book_2ed/pull/119){:target='_blank'},
+[#120](https://github.com/ruRust/rust_book_2ed/pull/120){:target='_blank'},
+[#121](https://github.com/ruRust/rust_book_2ed/pull/121){:target='_blank'},
+[#122](https://github.com/ruRust/rust_book_2ed/pull/122){:target='_blank'},
+[#123](https://github.com/ruRust/rust_book_2ed/pull/123){:target='_blank'},
+[#124](https://github.com/ruRust/rust_book_2ed/pull/124){:target='_blank'},
+[#125](https://github.com/ruRust/rust_book_2ed/pull/125){:target='_blank'},
+[#126](https://github.com/ruRust/rust_book_2ed/pull/126){:target='_blank'},
+[#127](https://github.com/ruRust/rust_book_2ed/pull/127){:target='_blank'},
+[#128](https://github.com/ruRust/rust_book_2ed/pull/128){:target='_blank'},
+[#129](https://github.com/ruRust/rust_book_2ed/pull/129){:target='_blank'},
+[#130](https://github.com/ruRust/rust_book_2ed/pull/130){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [michaelsauter](https://github.com/michaelsauter){:target='_blank'}/[crane](https://github.com/michaelsauter/crane){:target='_blank'}
@@ -73,7 +87,8 @@ permalink: /pull_requests/
 [#1048](https://github.com/goreleaser/goreleaser/pull/1048){:target='_blank'},
 [#1111](https://github.com/goreleaser/goreleaser/pull/1111){:target='_blank'},
 [#1112](https://github.com/goreleaser/goreleaser/pull/1112){:target='_blank'},
-[#1113](https://github.com/goreleaser/goreleaser/pull/1113){:target='_blank'}
+[#1113](https://github.com/goreleaser/goreleaser/pull/1113){:target='_blank'},
+[#1118](https://github.com/goreleaser/goreleaser/pull/1118){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [reviewdog](https://github.com/reviewdog){:target='_blank'}/[reviewdog](https://github.com/reviewdog/reviewdog){:target='_blank'}

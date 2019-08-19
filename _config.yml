@@ -93,7 +93,7 @@ text:
     theme:        'тема'
 
 counters:
-  pull_requests:  164
+  pull_requests:  179
   projects:       4
 
 # Build settings
