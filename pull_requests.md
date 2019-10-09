@@ -7,6 +7,15 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2019 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[DmitryVdovichencko](https://github.com/DmitryVdovichencko){:target='_blank'}/[how-https-works-russian](https://github.com/DmitryVdovichencko/how-https-works-russian){:target='_blank'}
+-
+[#13](https://github.com/DmitryVdovichencko/how-https-works-russian/pull/13){:target='_blank'},
+[#14](https://github.com/DmitryVdovichencko/how-https-works-russian/pull/14){:target='_blank'},
+[#15](https://github.com/DmitryVdovichencko/how-https-works-russian/pull/15){:target='_blank'},
+[#16](https://github.com/DmitryVdovichencko/how-https-works-russian/pull/16){:target='_blank'},
+[#17](https://github.com/DmitryVdovichencko/how-https-works-russian/pull/17){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [trailblazer](https://github.com/trailblazer){:target='_blank'}/[reform](https://github.com/trailblazer/reform){:target='_blank'}
 -
 [#466](https://github.com/trailblazer/reform/pull/466){:target='_blank'}
@@ -55,7 +64,15 @@ permalink: /pull_requests/
 [#127](https://github.com/ruRust/rust_book_2ed/pull/127){:target='_blank'},
 [#128](https://github.com/ruRust/rust_book_2ed/pull/128){:target='_blank'},
 [#129](https://github.com/ruRust/rust_book_2ed/pull/129){:target='_blank'},
-[#130](https://github.com/ruRust/rust_book_2ed/pull/130){:target='_blank'}
+[#130](https://github.com/ruRust/rust_book_2ed/pull/130){:target='_blank'},
+[#131](https://github.com/ruRust/rust_book_2ed/pull/131){:target='_blank'},
+[#132](https://github.com/ruRust/rust_book_2ed/pull/132){:target='_blank'},
+[#133](https://github.com/ruRust/rust_book_2ed/pull/133){:target='_blank'},
+[#134](https://github.com/ruRust/rust_book_2ed/pull/134){:target='_blank'},
+[#135](https://github.com/ruRust/rust_book_2ed/pull/135){:target='_blank'},
+[#136](https://github.com/ruRust/rust_book_2ed/pull/136){:target='_blank'},
+[#137](https://github.com/ruRust/rust_book_2ed/pull/137){:target='_blank'},
+[#138](https://github.com/ruRust/rust_book_2ed/pull/138){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [michaelsauter](https://github.com/michaelsauter){:target='_blank'}/[crane](https://github.com/michaelsauter/crane){:target='_blank'}
@@ -93,9 +110,11 @@ permalink: /pull_requests/
 <span class="octicon octicon-repo"></span>
 [reviewdog](https://github.com/reviewdog){:target='_blank'}/[reviewdog](https://github.com/reviewdog/reviewdog){:target='_blank'}
 -
+[#190](https://github.com/reviewdog/reviewdog/pull/190){:target='_blank'},
 [#212](https://github.com/reviewdog/reviewdog/pull/212){:target='_blank'},
 [#213](https://github.com/reviewdog/reviewdog/pull/213){:target='_blank'},
-[#214](https://github.com/reviewdog/reviewdog/pull/214){:target='_blank'}
+[#214](https://github.com/reviewdog/reviewdog/pull/214){:target='_blank'},
+[#340](https://github.com/reviewdog/reviewdog/pull/340){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [go101](https://github.com/go101){:target='_blank'}/[go101](https://github.com/go101/go101){:target='_blank'}
