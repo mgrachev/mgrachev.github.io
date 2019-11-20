@@ -93,8 +93,8 @@ text:
     theme:        'тема'
 
 counters:
-  pull_requests:  179
-  projects:       4
+  pull_requests:  183
+  projects:       5
 
 # Build settings
 markdown:     kramdown

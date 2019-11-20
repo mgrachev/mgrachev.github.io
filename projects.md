@@ -9,4 +9,5 @@ permalink: /projects/
     <div class="github-widget" data-repo="mgrachev/capistrano-hanami"></div>
     <div class="github-widget" data-repo="mgrachev/gastly"></div>
     <div class="github-widget" data-repo="mgrachev/brevity"></div>
+    <div class="github-widget" data-repo="mgrachev/action-rubocop"></div>
 </div>

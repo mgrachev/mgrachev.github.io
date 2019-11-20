@@ -7,6 +7,26 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2019 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[helm](https://github.com/helm){:target='_blank'}/[charts](https://github.com/helm/charts){:target='_blank'}
+-
+[#18447](https://github.com/helm/charts/pull/18447){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[prontolabs](https://github.com/prontolabs){:target='_blank'}/[pronto-fasterer](https://github.com/prontolabs/pronto-fasterer){:target='_blank'}
+-
+[#9](https://github.com/prontolabs/pronto-fasterer/pull/9){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[bxcodec](https://github.com/bxcodec){:target='_blank'}/[faker](https://github.com/bxcodec/faker){:target='_blank'}
+-
+[#73](https://github.com/bxcodec/faker/pull/73){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[thoughtbot](https://github.com/thoughtbot){:target='_blank'}/[clearance](https://github.com/thoughtbot/clearance){:target='_blank'}
+-
+[#784](https://github.com/thoughtbot/clearance/pull/784){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [trailblazer](https://github.com/trailblazer){:target='_blank'}/[reform](https://github.com/trailblazer/reform){:target='_blank'}
 -
 [#466](https://github.com/trailblazer/reform/pull/466){:target='_blank'}
@@ -277,9 +297,9 @@ permalink: /pull_requests/
 [#495](https://github.com/mina-deploy/mina/pull/495){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
-[mmozuras](https://github.com/mmozuras){:target='_blank'}/[pronto-fasterer](https://github.com/mmozuras/pronto-fasterer){:target='_blank'}
+[prontolabs](https://github.com/prontolabs){:target='_blank'}/[pronto-fasterer](https://github.com/prontolabs/pronto-fasterer){:target='_blank'}
 -
-[#3](https://github.com/mmozuras/pronto-fasterer/pull/3){:target='_blank'}
+[#3](https://github.com/prontolabs/pronto-fasterer/pull/3){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [hanami](https://github.com/hanami){:target='_blank'}/[controller](https://github.com/hanami/controller){:target='_blank'}
