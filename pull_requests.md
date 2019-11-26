@@ -113,9 +113,11 @@ permalink: /pull_requests/
 <span class="octicon octicon-repo"></span>
 [reviewdog](https://github.com/reviewdog){:target='_blank'}/[reviewdog](https://github.com/reviewdog/reviewdog){:target='_blank'}
 -
+[#190](https://github.com/reviewdog/reviewdog/pull/190){:target='_blank'},
 [#212](https://github.com/reviewdog/reviewdog/pull/212){:target='_blank'},
 [#213](https://github.com/reviewdog/reviewdog/pull/213){:target='_blank'},
-[#214](https://github.com/reviewdog/reviewdog/pull/214){:target='_blank'}
+[#214](https://github.com/reviewdog/reviewdog/pull/214){:target='_blank'},
+[#340](https://github.com/reviewdog/reviewdog/pull/340){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [go101](https://github.com/go101){:target='_blank'}/[go101](https://github.com/go101/go101){:target='_blank'}
