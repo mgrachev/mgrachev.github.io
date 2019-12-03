@@ -7,6 +7,13 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2019 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[reviewdog](https://github.com/reviewdog){:target='_blank'}/[errorformat](https://github.com/reviewdog/errorformat){:target='_blank'}
+-
+[#39](https://github.com/reviewdog/errorformat/pull/39){:target='_blank'},
+[#41](https://github.com/reviewdog/errorformat/pull/41){:target='_blank'},
+[#42](https://github.com/reviewdog/errorformat/pull/42){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [helm](https://github.com/helm){:target='_blank'}/[charts](https://github.com/helm/charts){:target='_blank'}
 -
 [#18447](https://github.com/helm/charts/pull/18447){:target='_blank'}
@@ -117,7 +124,8 @@ permalink: /pull_requests/
 [#212](https://github.com/reviewdog/reviewdog/pull/212){:target='_blank'},
 [#213](https://github.com/reviewdog/reviewdog/pull/213){:target='_blank'},
 [#214](https://github.com/reviewdog/reviewdog/pull/214){:target='_blank'},
-[#340](https://github.com/reviewdog/reviewdog/pull/340){:target='_blank'}
+[#340](https://github.com/reviewdog/reviewdog/pull/340){:target='_blank'},
+[#366](https://github.com/reviewdog/reviewdog/pull/366){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [go101](https://github.com/go101){:target='_blank'}/[go101](https://github.com/go101/go101){:target='_blank'}
