@@ -11,7 +11,8 @@ permalink: /pull_requests/
 -
 [#39](https://github.com/reviewdog/errorformat/pull/39){:target='_blank'},
 [#41](https://github.com/reviewdog/errorformat/pull/41){:target='_blank'},
-[#42](https://github.com/reviewdog/errorformat/pull/42){:target='_blank'}
+[#42](https://github.com/reviewdog/errorformat/pull/42){:target='_blank'},
+[#43](https://github.com/reviewdog/errorformat/pull/43){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [helm](https://github.com/helm){:target='_blank'}/[charts](https://github.com/helm/charts){:target='_blank'}
