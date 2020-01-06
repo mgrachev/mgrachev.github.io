@@ -4,6 +4,18 @@ title: Список pull requests на GitHub
 permalink: /pull_requests/
 ---
 
+<p class="center">&mdash; 2020 &mdash;</p>
+
+<span class="octicon octicon-repo"></span>
+[reviewdog](https://github.com/reviewdog){:target='_blank'}/[errorformat](https://github.com/reviewdog/errorformat){:target='_blank'}
+-
+[#44](https://github.com/reviewdog/errorformat/pull/44){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[caramelomartins](https://github.com/caramelomartins){:target='_blank'}/[awesome-linters](https://github.com/caramelomartins/awesome-linters){:target='_blank'}
+-
+[#74](https://github.com/caramelomartins/awesome-linters/pull/74){:target='_blank'}
+
 <p class="center">&mdash; 2019 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
