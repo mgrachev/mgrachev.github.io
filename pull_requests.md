@@ -7,6 +7,11 @@ permalink: /pull_requests/
 <p class="center">&mdash; 2020 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[rust-lang](https://github.com/rust-lang){:target='_blank'}/[rust](https://github.com/rust-lang/rust){:target='_blank'}
+-
+[#67929](https://github.com/rust-lang/rust/pull/67929){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [reviewdog](https://github.com/reviewdog){:target='_blank'}/[errorformat](https://github.com/reviewdog/errorformat){:target='_blank'}
 -
 [#44](https://github.com/reviewdog/errorformat/pull/44){:target='_blank'}
