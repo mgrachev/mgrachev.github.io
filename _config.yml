@@ -84,7 +84,7 @@ text:
   index:
     coming_soon: 'Здесь пока ничего нет, но скоро появится :)'
   navigation:
-    pull_requests:  'Список pull requests на GitHub'
+    open_source:    'Open Source'
     projects:       'Мои проекты'
     about:          'Обо мне'
     speaks:         'Выступления'
@@ -93,8 +93,8 @@ text:
     theme:        'тема'
 
 counters:
-  pull_requests:  193
-  projects:       6
+  open_source_prs:  200
+  projects:         6
 
 # Build settings
 markdown:     kramdown

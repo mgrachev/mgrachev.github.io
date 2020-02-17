@@ -1,10 +1,41 @@
 ---
 layout: page
-title: Список pull requests на GitHub
-permalink: /pull_requests/
+title: Open Source
+permalink: /open_source/
 ---
 
 <p class="center">&mdash; 2020 &mdash;</p>
+
+<span class="octicon octicon-repo"></span>
+[reviewdog](https://github.com/reviewdog){:target='_blank'}/[reviewdog](https://github.com/reviewdog/reviewdog){:target='_blank'}
+-
+[#428](https://github.com/reviewdog/reviewdog/pull/428){:target='_blank'},
+[#451](https://github.com/reviewdog/reviewdog/pull/451){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[sdras](https://github.com/sdras){:target='_blank'}/[awesome-actions](https://github.com/sdras/awesome-actions){:target='_blank'}
+-
+[#298](https://github.com/sdras/awesome-actions/pull/298){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[reviewdog](https://github.com/reviewdog){:target='_blank'}/[action-brakeman](https://github.com/reviewdog/action-brakeman){:target='_blank'}
+-
+[#1](https://github.com/reviewdog/action-brakeman/pull/1){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[reviewdog](https://github.com/reviewdog){:target='_blank'}/[action-hadolint](https://github.com/reviewdog/action-hadolint){:target='_blank'}
+-
+[#8](https://github.com/reviewdog/action-hadolint/pull/8){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[reviewdog](https://github.com/reviewdog){:target='_blank'}/[action-rubocop](https://github.com/reviewdog/action-rubocop){:target='_blank'}
+-
+[#5](https://github.com/reviewdog/action-rubocop/pull/5){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[rust-unofficial](https://github.com/rust-unofficial){:target='_blank'}/[awesome-rust](https://github.com/rust-unofficial/awesome-rust){:target='_blank'}
+-
+[#786](https://github.com/rust-unofficial/awesome-rust/pull/786){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [rust-lang](https://github.com/rust-lang){:target='_blank'}/[rust](https://github.com/rust-lang/rust){:target='_blank'}
@@ -14,7 +45,8 @@ permalink: /pull_requests/
 <span class="octicon octicon-repo"></span>
 [reviewdog](https://github.com/reviewdog){:target='_blank'}/[errorformat](https://github.com/reviewdog/errorformat){:target='_blank'}
 -
-[#44](https://github.com/reviewdog/errorformat/pull/44){:target='_blank'}
+[#44](https://github.com/reviewdog/errorformat/pull/44){:target='_blank'},
+[#46](https://github.com/reviewdog/errorformat/pull/46){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [caramelomartins](https://github.com/caramelomartins){:target='_blank'}/[awesome-linters](https://github.com/caramelomartins/awesome-linters){:target='_blank'}
