@@ -7,9 +7,15 @@ permalink: /open_source/
 <p class="center">&mdash; 2020 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[ctjhoa](https://github.com/ctjhoa){:target='_blank'}/[rust-learning](https://github.com/ctjhoa/rust-learning){:target='_blank'}
+-
+[#160](https://github.com/ctjhoa/rust-learning/pull/160){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [reviewdog](https://github.com/reviewdog){:target='_blank'}/[reviewdog](https://github.com/reviewdog/reviewdog){:target='_blank'}
 -
 [#428](https://github.com/reviewdog/reviewdog/pull/428){:target='_blank'},
+[#431](https://github.com/reviewdog/reviewdog/pull/431){:target='_blank'},
 [#451](https://github.com/reviewdog/reviewdog/pull/451){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
