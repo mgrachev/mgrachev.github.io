@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 <div>
-    <div class="github-widget" data-repo="mgrachev/dotenv-linter"></div>
+    <div class="github-widget" data-repo="dotenv-linter/dotenv-linter"></div>
     <div class="github-widget" data-repo="mgrachev/gastly"></div>
     <div class="github-widget" data-repo="mgrachev/mina-hanami"></div>
     <div class="github-widget" data-repo="mgrachev/capistrano-hanami"></div>
