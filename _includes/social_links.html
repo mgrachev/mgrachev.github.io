@@ -1,7 +1,7 @@
 <div class="social-icons">
   <div class="social-icons-right">
     {% if site.github_username %}
-      <a class="fa fa-github" href="https://github.com/{{ site.github_username }}" target="_blank"></a>
+      <a class="fab fa-github" href="https://github.com/{{ site.github_username }}" target="_blank"></a>
     {% endif %}
     {% if site.bitbucket_username %}
       <a class="fa fa-bitbucket" href="https://bitbucket.org/{{ site.bitbucket_username }}" target="_blank"></a>
@@ -9,9 +9,9 @@
     {% if site.stackoverflow_id %}
       <a class="fa fa-stack-overflow" href="https://stackoverflow.com/users/{{ site.stackoverflow_id }}" target="_blank"></a>
     {% endif %}
-    <a class="fa fa-rss" href="{{ "/feed.xml" | prepend: site.baseurl }}"></a>
+    <a class="fas" href="{{ "/feed.xml" | prepend: site.baseurl }}"><i class="fas fa-rss"></i></a>
     {% if site.twitter_username %}
-      <a class="fa fa-twitter" href="https://twitter.com/{{ site.twitter_username }}" target="_blank"></a>
+      <a class="fab fa-twitter" href="https://twitter.com/{{ site.twitter_username }}" target="_blank"></a>
     {% endif %}
     {% if site.skype_username %}
       <a class="fa fa-skype" href="skype:{{ site.skype_username }}?userinfo"></a>
@@ -23,7 +23,7 @@
       <a class="fa fa-google-plus" href="https://plus.google.com/{{ site.google_plus_id }}/posts" target="_blank"></a>
     {% endif %}
     {% if site.email %}
-      <a class="fa fa-envelope" href="mailto:{{ site.email }}" target="_blank"></a>
+      <a class="fas fa-envelope" href="mailto:{{ site.email }}" target="_blank"></a>
     {% endif %}
     {% if site.linkedin_username %}
       <a class="fa fa-linkedin" href="https://www.linkedin.com/in/{{ site.linkedin_username }}" target="_blank"></a>
