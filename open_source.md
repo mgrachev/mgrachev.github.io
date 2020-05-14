@@ -7,6 +7,11 @@ permalink: /open_source/
 <p class="center">&mdash; 2020 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[troessner](https://github.com/troessner){:target='_blank'}/[reek](https://github.com/troessner/reek){:target='_blank'}
+-
+[#1537](https://github.com/troessner/reek/pull/1537){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [ctjhoa](https://github.com/ctjhoa){:target='_blank'}/[rust-learning](https://github.com/ctjhoa/rust-learning){:target='_blank'}
 -
 [#160](https://github.com/ctjhoa/rust-learning/pull/160){:target='_blank'}
@@ -16,7 +21,8 @@ permalink: /open_source/
 -
 [#428](https://github.com/reviewdog/reviewdog/pull/428){:target='_blank'},
 [#431](https://github.com/reviewdog/reviewdog/pull/431){:target='_blank'},
-[#451](https://github.com/reviewdog/reviewdog/pull/451){:target='_blank'}
+[#451](https://github.com/reviewdog/reviewdog/pull/451){:target='_blank'},
+[#559](https://github.com/reviewdog/reviewdog/pull/559){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [sdras](https://github.com/sdras){:target='_blank'}/[awesome-actions](https://github.com/sdras/awesome-actions){:target='_blank'}
