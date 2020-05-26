@@ -7,6 +7,11 @@ permalink: /open_source/
 <p class="center">&mdash; 2020 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[goreleaser](https://github.com/goreleaser){:target='_blank'}/[goreleaser](https://github.com/goreleaser/goreleaser){:target='_blank'}
+-
+[#1554](https://github.com/goreleaser/goreleaser/pull/1554){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [troessner](https://github.com/troessner){:target='_blank'}/[reek](https://github.com/troessner/reek){:target='_blank'}
 -
 [#1537](https://github.com/troessner/reek/pull/1537){:target='_blank'}
