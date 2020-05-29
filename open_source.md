@@ -7,6 +7,12 @@ permalink: /open_source/
 <p class="center">&mdash; 2020 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[emberian](https://github.com/emberian){:target='_blank'}/[this-week-in-rust](https://github.com/emberian/this-week-in-rust){:target='_blank'}
+-
+[#1262](https://github.com/emberian/this-week-in-rust/pull/1262){:target='_blank'},
+[#1269](https://github.com/emberian/this-week-in-rust/pull/1269){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [goreleaser](https://github.com/goreleaser){:target='_blank'}/[goreleaser](https://github.com/goreleaser/goreleaser){:target='_blank'}
 -
 [#1554](https://github.com/goreleaser/goreleaser/pull/1554){:target='_blank'}
