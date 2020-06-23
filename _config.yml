@@ -93,7 +93,7 @@ text:
     theme:        'тема'
 
 counters:
-  open_source_prs:  207
+  open_source_prs:  210
   projects:         8
 
 # Build settings

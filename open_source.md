@@ -7,6 +7,17 @@ permalink: /open_source/
 <p class="center">&mdash; 2020 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[github](https://github.com/github){:target='_blank'}/[super-linter](https://github.com/github/super-linter){:target='_blank'}
+-
+[#211](https://github.com/github/super-linter/pull/211){:target='_blank'},
+[#213](https://github.com/github/super-linter/pull/213){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[uhub](https://github.com/uhub){:target='_blank'}/[awesome-shell](https://github.com/uhub/awesome-shell){:target='_blank'}
+-
+[#9](https://github.com/uhub/awesome-shell/pull/9){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [emberian](https://github.com/emberian){:target='_blank'}/[this-week-in-rust](https://github.com/emberian/this-week-in-rust){:target='_blank'}
 -
 [#1262](https://github.com/emberian/this-week-in-rust/pull/1262){:target='_blank'},
