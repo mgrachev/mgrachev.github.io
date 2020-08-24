@@ -7,6 +7,11 @@ permalink: /open_source/
 <p class="center">&mdash; 2020 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[RustBeginners](https://github.com/RustBeginners){:target='_blank'}/[awesome-rust-mentors](https://github.com/RustBeginners/awesome-rust-mentors){:target='_blank'}
+-
+[#125](https://github.com/RustBeginners/awesome-rust-mentors/pull/125){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [github](https://github.com/github){:target='_blank'}/[super-linter](https://github.com/github/super-linter){:target='_blank'}
 -
 [#211](https://github.com/github/super-linter/pull/211){:target='_blank'},
@@ -44,7 +49,8 @@ permalink: /open_source/
 [#428](https://github.com/reviewdog/reviewdog/pull/428){:target='_blank'},
 [#431](https://github.com/reviewdog/reviewdog/pull/431){:target='_blank'},
 [#451](https://github.com/reviewdog/reviewdog/pull/451){:target='_blank'},
-[#559](https://github.com/reviewdog/reviewdog/pull/559){:target='_blank'}
+[#559](https://github.com/reviewdog/reviewdog/pull/559){:target='_blank'},
+[#658](https://github.com/reviewdog/reviewdog/pull/658){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [sdras](https://github.com/sdras){:target='_blank'}/[awesome-actions](https://github.com/sdras/awesome-actions){:target='_blank'}
