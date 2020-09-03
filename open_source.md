@@ -7,6 +7,16 @@ permalink: /open_source/
 <p class="center">&mdash; 2020 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[rust-lang](https://github.com/rust-lang){:target='_blank'}/[rustfmt](https://github.com/rust-lang/rustfmt){:target='_blank'}
+-
+[#4409](https://github.com/rust-lang/rustfmt/pull/4409){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[intellij-rust](https://github.com/intellij-rust){:target='_blank'}/[intellij-rust](https://github.com/intellij-rust/intellij-rust){:target='_blank'}
+-
+[#5956](https://github.com/intellij-rust/intellij-rust/pull/5956){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [RustBeginners](https://github.com/RustBeginners){:target='_blank'}/[awesome-rust-mentors](https://github.com/RustBeginners/awesome-rust-mentors){:target='_blank'}
 -
 [#125](https://github.com/RustBeginners/awesome-rust-mentors/pull/125){:target='_blank'}
@@ -50,7 +60,8 @@ permalink: /open_source/
 [#431](https://github.com/reviewdog/reviewdog/pull/431){:target='_blank'},
 [#451](https://github.com/reviewdog/reviewdog/pull/451){:target='_blank'},
 [#559](https://github.com/reviewdog/reviewdog/pull/559){:target='_blank'},
-[#658](https://github.com/reviewdog/reviewdog/pull/658){:target='_blank'}
+[#658](https://github.com/reviewdog/reviewdog/pull/658){:target='_blank'},
+[#743](https://github.com/reviewdog/reviewdog/pull/743){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [sdras](https://github.com/sdras){:target='_blank'}/[awesome-actions](https://github.com/sdras/awesome-actions){:target='_blank'}
