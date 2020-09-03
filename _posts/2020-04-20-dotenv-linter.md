@@ -185,14 +185,14 @@ FOO=BAR
 Есть несколько вариантов установки dotenv-linter. Самый простой вариант &mdash; скачать бинарный файл с помощью `curl` или `wget`:
 
 ```bash
-# Linux
-$ curl https://github.com/dotenv-linter/dotenv-linter/releases/download/v1.2.0/dotenv-linter-linux-x86_64.tar.gz -sSfL | tar -xzf -
+# Linux / macOS / Windows (MINGW и т.д.). По умолчанию устанавливается в директорию ./bin
+$ curl -sSfL https://raw.githubusercontent.com/dotenv-linter/dotenv-linter/master/install.sh | sh -s
 
-# Alpine Linux
-$ wget https://github.com/dotenv-linter/dotenv-linter/releases/download/v1.2.0/dotenv-linter-alpine-x86_64.tar.gz -O - -q | tar -xzf -
+# Можно указать директорию установки и версию
+$ curl -sSfL https://raw.githubusercontent.com/dotenv-linter/dotenv-linter/master/install.sh | sh -s -- -b usr/local/bin v2.0.0
 
-# macOS
-$ curl https://github.com/dotenv-linter/dotenv-linter/releases/download/v1.2.0/dotenv-linter-darwin-x86_64.tar.gz -sSfL | tar -xzf -
+# Alpine Linux (wget)
+$ wget -q -O - https://raw.githubusercontent.com/dotenv-linter/dotenv-linter/master/install.sh | sh -s
 ```
 
 Другой вариант &mdash; установить через [Homebrew](https://brew.sh){:target='_blank'}:
