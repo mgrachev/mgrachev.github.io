@@ -61,7 +61,8 @@ permalink: /open_source/
 [#451](https://github.com/reviewdog/reviewdog/pull/451){:target='_blank'},
 [#559](https://github.com/reviewdog/reviewdog/pull/559){:target='_blank'},
 [#658](https://github.com/reviewdog/reviewdog/pull/658){:target='_blank'},
-[#743](https://github.com/reviewdog/reviewdog/pull/743){:target='_blank'}
+[#743](https://github.com/reviewdog/reviewdog/pull/743){:target='_blank'},
+[#762](https://github.com/reviewdog/reviewdog/pull/762){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [sdras](https://github.com/sdras){:target='_blank'}/[awesome-actions](https://github.com/sdras/awesome-actions){:target='_blank'}
@@ -97,7 +98,8 @@ permalink: /open_source/
 [reviewdog](https://github.com/reviewdog){:target='_blank'}/[errorformat](https://github.com/reviewdog/errorformat){:target='_blank'}
 -
 [#44](https://github.com/reviewdog/errorformat/pull/44){:target='_blank'},
-[#46](https://github.com/reviewdog/errorformat/pull/46){:target='_blank'}
+[#46](https://github.com/reviewdog/errorformat/pull/46){:target='_blank'},
+[#77](https://github.com/reviewdog/errorformat/pull/77){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [caramelomartins](https://github.com/caramelomartins){:target='_blank'}/[awesome-linters](https://github.com/caramelomartins/awesome-linters){:target='_blank'}
