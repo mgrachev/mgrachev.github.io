@@ -7,6 +7,11 @@ permalink: /open_source/
 <p class="center">&mdash; 2020 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[deepsourcelabs](https://github.com/deepsourcelabs){:target='_blank'}/[good-first-issue](https://github.com/deepsourcelabs/good-first-issue){:target='_blank'}
+-
+[#147](https://github.com/deepsourcelabs/good-first-issue/pull/147){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [rust-lang](https://github.com/rust-lang){:target='_blank'}/[rustfmt](https://github.com/rust-lang/rustfmt){:target='_blank'}
 -
 [#4409](https://github.com/rust-lang/rustfmt/pull/4409){:target='_blank'}
@@ -104,7 +109,8 @@ permalink: /open_source/
 <span class="octicon octicon-repo"></span>
 [caramelomartins](https://github.com/caramelomartins){:target='_blank'}/[awesome-linters](https://github.com/caramelomartins/awesome-linters){:target='_blank'}
 -
-[#74](https://github.com/caramelomartins/awesome-linters/pull/74){:target='_blank'}
+[#74](https://github.com/caramelomartins/awesome-linters/pull/74){:target='_blank'},
+[#95](https://github.com/caramelomartins/awesome-linters/pull/95){:target='_blank'}
 
 <p class="center">&mdash; 2019 &mdash;</p>
 
