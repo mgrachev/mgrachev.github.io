@@ -26,7 +26,7 @@ permalink: /about/
         <br><br>
         
         Также развиваю свои Open Source <a href="/projects">проекты</a> <i class="fas fa-code"></i><br>
-        Опыт профессиональный разработки <i class="fas fa-angle-right"></i> {{ site.time | date: '%Y' | minus: 2008 }} лет.
+        Опыт профессиональный разработки <i class="fas fa-angle-right"></i> {{ site.time | date: '%Y' | minus: 2008 }} лет <i class="fas fa-medal"></i>
         <br><br>
  
         Соц. сети:
