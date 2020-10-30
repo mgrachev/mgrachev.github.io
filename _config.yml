@@ -93,8 +93,9 @@ text:
     theme:        'тема'
 
 counters:
-  open_source_prs:  219
+  open_source_prs:  221
   projects:         8
+  speaks:           2
 
 # Build settings
 markdown:     kramdown

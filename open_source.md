@@ -7,6 +7,11 @@ permalink: /open_source/
 <p class="center">&mdash; 2020 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[wemake-services](https://github.com/wemake-services){:target='_blank'}/[wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide){:target='_blank'}
+-
+[#1702](https://github.com/wemake-services/wemake-python-styleguide/pull/1702){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [deepsourcelabs](https://github.com/deepsourcelabs){:target='_blank'}/[good-first-issue](https://github.com/deepsourcelabs/good-first-issue){:target='_blank'}
 -
 [#147](https://github.com/deepsourcelabs/good-first-issue/pull/147){:target='_blank'}
@@ -41,7 +46,8 @@ permalink: /open_source/
 [emberian](https://github.com/emberian){:target='_blank'}/[this-week-in-rust](https://github.com/emberian/this-week-in-rust){:target='_blank'}
 -
 [#1262](https://github.com/emberian/this-week-in-rust/pull/1262){:target='_blank'},
-[#1269](https://github.com/emberian/this-week-in-rust/pull/1269){:target='_blank'}
+[#1269](https://github.com/emberian/this-week-in-rust/pull/1269){:target='_blank'},
+[#1579](https://github.com/emberian/this-week-in-rust/pull/1579){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [goreleaser](https://github.com/goreleaser){:target='_blank'}/[goreleaser](https://github.com/goreleaser/goreleaser){:target='_blank'}
