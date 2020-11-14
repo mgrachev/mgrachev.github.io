@@ -9,7 +9,8 @@ permalink: /open_source/
 <span class="octicon octicon-repo"></span>
 [wemake-services](https://github.com/wemake-services){:target='_blank'}/[wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide){:target='_blank'}
 -
-[#1702](https://github.com/wemake-services/wemake-python-styleguide/pull/1702){:target='_blank'}
+[#1702](https://github.com/wemake-services/wemake-python-styleguide/pull/1702){:target='_blank'},
+[#1722](https://github.com/wemake-services/wemake-python-styleguide/pull/1722){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [deepsourcelabs](https://github.com/deepsourcelabs){:target='_blank'}/[good-first-issue](https://github.com/deepsourcelabs/good-first-issue){:target='_blank'}
