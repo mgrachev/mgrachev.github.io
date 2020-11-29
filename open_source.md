@@ -580,21 +580,9 @@ permalink: /open_source/
 [#236](https://github.com/johnotander/pixyll/pull/236){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
-[colszowka](https://github.com/colszowka){:target='_blank'}/[phantomjs-gem](https://github.com/colszowka/phantomjs-gem){:target='_blank'}
--
-[#57](https://github.com/colszowka/phantomjs-gem/pull/57){:target='_blank'}
-
-<span class="octicon octicon-repo"></span>
 [errbit](https://github.com/errbit){:target='_blank'}/[errbit](https://github.com/errbit/errbit){:target='_blank'}
 -
 [#895](https://github.com/errbit/errbit/pull/895){:target='_blank'}
-
-<p class="center">&mdash; 2014 &mdash;</p>
-
-<span class="octicon octicon-repo"></span>
-[ankit8898](https://github.com/ankit8898){:target='_blank'}/[carrierwave_encrypter_decrypter](https://github.com/ankit8898/carrierwave_encrypter_decrypter){:target='_blank'}
--
-[#1](https://github.com/ankit8898/carrierwave_encrypter_decrypter/pull/1){:target='_blank'}
 
 <p class="center">&mdash; 2013 &mdash;</p>
 
