@@ -95,7 +95,7 @@ text:
 counters:
   open_source_prs:  220
   projects:         8
-  speaks:           2
+  speaks:           3
 
 # Build settings
 markdown:     kramdown
