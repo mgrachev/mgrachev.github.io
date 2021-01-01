@@ -7,6 +7,16 @@ permalink: /open_source/
 <p class="center">&mdash; 2020 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[rust-lang-nursery](https://github.com/rust-lang-nursery){:target='_blank'}/[rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook){:target='_blank'}
+-
+[#621](https://github.com/rust-lang-nursery/rust-cookbook/pull/621){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[MunGell](https://github.com/MunGell){:target='_blank'}/[awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners){:target='_blank'}
+-
+[#895](https://github.com/MunGell/awesome-for-beginners/pull/895){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [wemake-services](https://github.com/wemake-services){:target='_blank'}/[wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide){:target='_blank'}
 -
 [#1702](https://github.com/wemake-services/wemake-python-styleguide/pull/1702){:target='_blank'},
@@ -48,7 +58,8 @@ permalink: /open_source/
 -
 [#1262](https://github.com/emberian/this-week-in-rust/pull/1262){:target='_blank'},
 [#1269](https://github.com/emberian/this-week-in-rust/pull/1269){:target='_blank'},
-[#1579](https://github.com/emberian/this-week-in-rust/pull/1579){:target='_blank'}
+[#1579](https://github.com/emberian/this-week-in-rust/pull/1579){:target='_blank'},
+[#1688](https://github.com/emberian/this-week-in-rust/pull/1688){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [goreleaser](https://github.com/goreleaser){:target='_blank'}/[goreleaser](https://github.com/goreleaser/goreleaser){:target='_blank'}
