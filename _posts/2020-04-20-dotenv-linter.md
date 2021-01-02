@@ -2,11 +2,12 @@
 layout: post
 title: "Dotenv-linter: линтер .env файлов"
 date: 2020-04-20 17:00:00
+update_date: 2021-01-02 18:00:00
 tags: dotenv-linter dotenv linter env 12factor rust docker compose github actions reviewdog golang ruby php elixir javascript haskell python homebrew 
 summary: "⚡️Молниеносный инструмент для проверки <code>.env</code> файлов 🦀"
 ---
 
-![dotenv-linter]({{ site.url }}/assets/images/2020-04-20-dotenv-linter/dotenv-linter-jsdhhg8d3d2a.png){: .center-image }
+![dotenv-linter]({{ site.url }}/assets/images/2020-04-20-dotenv-linter/dotenv-linter-cover-zgs7ns5ah2m5.png){: .center-image }
 
 При разработке приложений я всегда стараюсь придерживаться манифеста [двенадцати факторов](https://12factor.net){:target='_blank'}. Такой подход позволяет избежать большого количества проблем, связанных с развертыванием приложений и их дальнейшей поддержкой.
 
@@ -207,7 +208,7 @@ $ brew install dotenv-linter
 $ docker run --rm -v `pwd`:/app -w /app dotenvlinter/dotenv-linter
 ```
 
-Другие варианты установки можно найти в репозитории проекта [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter#-installation){:target='_blank'} на GitHub.
+Другие варианты установки можно найти на сайте проекта [dotenv-linter.github.io](https://dotenv-linter.github.io/#/installation){:target='_blank'}.
 
 ### Использование
 
@@ -262,7 +263,9 @@ jobs:
         uses: dotenv-linter/action-dotenv-linter@v1
 ```
 
-<br/>
+Больше информации вы можете найти на сайте проекта [dotenv-linter.github.io](https://dotenv-linter.github.io){:target='_blank'}.
+
+---
 
 С самого начала dotenv-linter разрабатывался силами Open Source сообщества.<br/>
 Поэтому, если у вас есть желание поизучать [Rust](https://www.rust-lang.org){:target='_blank'} и заодно поучаствовать в разработке замечательного Open Source проекта, то [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter){:target='_blank'} &mdash; это то, что вам нужно!<br/>
