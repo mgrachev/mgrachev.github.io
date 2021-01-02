@@ -198,7 +198,7 @@ $ wget -q -O - https://raw.githubusercontent.com/dotenv-linter/dotenv-linter/mas
 Другой вариант &mdash; установить через [Homebrew](https://brew.sh){:target='_blank'}:
 
 ```bash
-$ brew install dotenv-linter/tap/dotenv-linter
+$ brew install dotenv-linter
 ```
 
 Так же есть возможность запуска dotenv-linter с помощью Docker:
