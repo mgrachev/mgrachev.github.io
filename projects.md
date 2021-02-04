@@ -13,4 +13,5 @@ permalink: /projects/
     <div class="github-widget" data-repo="reviewdog/action-hadolint"></div>
     <div class="github-widget" data-repo="reviewdog/action-brakeman"></div>
     <div class="github-widget" data-repo="reviewdog/action-reek"></div>
+    <div class="github-widget" data-repo="dotenv-linter/action-dotenv-linter"></div>
 </div>
