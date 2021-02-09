@@ -1,8 +1,8 @@
 # Site settings
-title:       Блог Михаила Грачёва
+title:       Mikhail Grachev's blog
 email:       work@mgrachev.com
-author:      Грачёв Михаил
-description: "Блог разработчика и DevOps-инженера"
+author:      Mikhail Grachev
+description: "Developer and DevOps Engineer Blog"
 baseurl:     ""
 url:         "https://www.mgrachev.com"
 #url:         "http://localhost:4000"
@@ -64,10 +64,10 @@ share_hackernews: false
 
 text:
   pagination:
-    newer: 'Новые'
-    older: 'Старые'
+    newer: 'New'
+    older: 'Old'
   share_buttons:
-    text:         'Поделиться:'
+    text:         'Share:'
     facebook:     'Share on Facebook'
     twitter:      'Share on Twitter'
     googleplus:   'Share on Google+'
@@ -78,22 +78,22 @@ text:
     stumbleupon:  'Share on StumbleUpon'
     hackernews:   'Share on Hacker News'
   post:
-    updated:        'Обновлено'
-    minute_read:    'минут прочитано'
-    related_posts:  'Похожие записи'
+    updated:        'Updated'
+    minute_read:    'minutes read'
+    related_posts:  'Similar posts'
   index:
-    coming_soon: 'Здесь пока ничего нет, но скоро появится :)'
+    coming_soon: 'Nothing here yet, but coming soon :)'
   navigation:
-    open_source:    'Open Source'
-    projects:       'Мои проекты'
-    about:          'Обо мне'
-    speaks:         'Выступления'
+    open_source:    'Open Source Activity'
+    projects:       'Projects'
+    about:          'About me'
+    speaks:         'Speeches'
   footer:
-    available_on: 'доступен на'
-    theme:        'тема'
+    available_on: 'available on'
+    theme:        'theme'
 
 counters:
-  open_source_prs:  223
+  open_source_prs:  227
   projects:         9
   speaks:           3
 

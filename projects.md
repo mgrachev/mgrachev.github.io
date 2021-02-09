@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Мои проекты
+title: Projects
 permalink: /projects/
 ---
 

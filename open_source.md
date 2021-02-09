@@ -1,8 +1,26 @@
 ---
 layout: page
-title: Open Source
+title: Open Source Activity
 permalink: /open_source/
 ---
+
+<p class="center">&mdash; 2021 &mdash;</p>
+
+<span class="octicon octicon-repo"></span>
+[reviewdog](https://github.com/reviewdog){:target='_blank'}/[reviewdog](https://github.com/reviewdog/reviewdog){:target='_blank'}
+-
+[#869](https://github.com/reviewdog/reviewdog/pull/869){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[emberian](https://github.com/emberian){:target='_blank'}/[this-week-in-rust](https://github.com/emberian/this-week-in-rust){:target='_blank'}
+-
+[#1762](https://github.com/emberian/this-week-in-rust/pull/1762){:target='_blank'},
+[#1776](https://github.com/emberian/this-week-in-rust/pull/1776){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[Homebrew](https://github.com/Homebrew){:target='_blank'}/[homebrew-core](https://github.com/Homebrew/homebrew-core){:target='_blank'}
+-
+[#68782](https://github.com/Homebrew/homebrew-core/pull/68782){:target='_blank'}
 
 <p class="center">&mdash; 2020 &mdash;</p>
 
