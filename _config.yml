@@ -87,7 +87,7 @@ text:
     open_source:    'Open Source Activity'
     projects:       'Projects'
     about:          'About me'
-    speaks:         'Speeches'
+    speaks:         'Speaks'
   footer:
     available_on: 'available on'
     theme:        'theme'
@@ -95,7 +95,7 @@ text:
 counters:
   open_source_prs:  227
   projects:         9
-  speaks:           3
+  speaks:           4
 
 # Build settings
 markdown:     kramdown
