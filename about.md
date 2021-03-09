@@ -13,7 +13,7 @@ permalink: /about/
         🐳 DevOps Engineer<br>
         💪 Team lead<br>
         🎤 <a href="/speaks" target="_blank">Speaker</a><sup class="counter">{{ site.counters.speaks }}</sup><br>
-        😍 Open Source activist & <a href="/open_source" target="_blank">contributor</a><sup class="counter">{{ site.counters.open_source_prs }}</sup><br>
+        😍 Open Source activist & <a href="/oss" target="_blank">contributor</a><sup class="counter">{{ site.counters.oss }}</sup><br>
         <br>
         
         <i class="fab fa-osi fa-lg"></i> Core-contributor:

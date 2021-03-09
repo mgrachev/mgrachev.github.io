@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Open Source Activity
-permalink: /open_source/
+permalink: /oss/
 ---
 
 <p class="center">&mdash; 2021 &mdash;</p>

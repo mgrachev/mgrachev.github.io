@@ -84,18 +84,19 @@ text:
   index:
     coming_soon: 'Nothing here yet, but coming soon :)'
   navigation:
-    open_source:    'Open Source Activity'
-    projects:       'Projects'
-    about:          'About me'
-    speaks:         'Speaks'
+    oss:      'Open Source Activity'
+    projects: 'Projects'
+    about:    'About me'
+    speaks:   'Speaks'
+    cv:       'CV'
   footer:
     available_on: 'available on'
     theme:        'theme'
 
 counters:
-  open_source_prs:  227
-  projects:         9
-  speaks:           4
+  oss:      227
+  projects: 9
+  speaks:   4
 
 # Build settings
 markdown:     kramdown

@@ -1,9 +1,18 @@
-.about {
+.about, .cv {
   .left {
     margin-right: 25px;
   }
   .avatar {
     border-radius: 50%;
+  }
+}
+
+.cv {
+  h2 {
+    margin-top: .2em;
+  }
+  h3 {
+    margin-bottom: 1em;
   }
 }
 
