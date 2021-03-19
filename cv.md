@@ -35,7 +35,7 @@ permalink: /cv/
 <br>
 <i class="fas fa-laptop-house fa-lg"></i> Работаю удалённо более <i class="fas fa-angle-right"></i> {{ site.time | date: '%Y' | minus: 2013 }} лет.
 <br>
-<i class="fas fa-language fa-lg"></i> Уровень английского — B1. Изучаю в Skyeng.
+<i class="fas fa-language fa-lg"></i> Уровень английского — B2. Изучаю в Skyeng.
 <br><br>
 
 ## Содержание:
