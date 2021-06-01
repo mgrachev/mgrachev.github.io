@@ -7,6 +7,16 @@ permalink: /oss/
 <p class="center">&mdash; 2021 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[CasbinRuby](https://github.com/CasbinRuby){:target='_blank'}/[casbin-ruby](https://github.com/CasbinRuby/casbin-ruby){:target='_blank'}
+-
+[#3](https://github.com/CasbinRuby/casbin-ruby/pull/3){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[analysis-tools-dev](https://github.com/analysis-tools-dev){:target='_blank'}/[static-analysis](https://github.com/analysis-tools-dev/static-analysis){:target='_blank'}
+-
+[#680](https://github.com/analysis-tools-dev/static-analysis/pull/680){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [reviewdog](https://github.com/reviewdog){:target='_blank'}/[reviewdog](https://github.com/reviewdog/reviewdog){:target='_blank'}
 -
 [#869](https://github.com/reviewdog/reviewdog/pull/869){:target='_blank'}
