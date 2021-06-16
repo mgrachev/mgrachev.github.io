@@ -25,12 +25,14 @@ permalink: /oss/
 [emberian](https://github.com/emberian){:target='_blank'}/[this-week-in-rust](https://github.com/emberian/this-week-in-rust){:target='_blank'}
 -
 [#1762](https://github.com/emberian/this-week-in-rust/pull/1762){:target='_blank'},
-[#1776](https://github.com/emberian/this-week-in-rust/pull/1776){:target='_blank'}
+[#1776](https://github.com/emberian/this-week-in-rust/pull/1776){:target='_blank'},
+[#2085](https://github.com/emberian/this-week-in-rust/pull/2085){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [Homebrew](https://github.com/Homebrew){:target='_blank'}/[homebrew-core](https://github.com/Homebrew/homebrew-core){:target='_blank'}
 -
-[#68782](https://github.com/Homebrew/homebrew-core/pull/68782){:target='_blank'}
+[#68782](https://github.com/Homebrew/homebrew-core/pull/68782){:target='_blank'},
+[#79012](https://github.com/Homebrew/homebrew-core/pull/79012){:target='_blank'}
 
 <p class="center">&mdash; 2020 &mdash;</p>
 

@@ -6,6 +6,16 @@ permalink: /speaks/
 
 <p class="center">&mdash; 2021 &mdash;</p>
 
+🇷🇺 [Взращивание культуры Open Source в компании](https://www.youtube.com/watch?v=mjw2kUabf6I&t=788s){:target='_blank'} / [GitHub Planeta](https://www.meetup.com/github-planeta/events/278582106/){:target='_blank'} / [Slides](https://github.com/mgrachev/slides/blob/master/2021/github-planeta/grow-oss-culture.pdf){:target='_blank'} <i class="far fa-file-pdf"></i>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/mjw2kUabf6I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+
+🇷🇺 [Взращивание культуры Open Source в компании](https://www.youtube.com/watch?v=1mPxNc3cNZE){:target='_blank'} / [TeamLead Conf 2021](https://teamleadconf.ru/moscow/2021){:target='_blank'} / [Slides](https://github.com/mgrachev/slides/blob/master/2021/teamlead-conf/oss-culture.pdf){:target='_blank'} <i class="far fa-file-pdf"></i>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/1mPxNc3cNZE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+
 🇷🇺 [Линтеры: на страже порядка](https://www.youtube.com/watch?v=7QLttfScGYc&t=2h24m42s){:target='_blank'} / [Saint P Ruby Winter Meetup](https://kommunity.com/saintpruby/events/winter-meetup-2021-6b2d4c4f){:target='_blank'} / [Slides](https://github.com/mgrachev/slides/blob/master/2021/saint-p-ruby-meetup/linters.pdf){:target='_blank'} <i class="far fa-file-pdf"></i>
 <iframe width="768" height="432" src="https://www.youtube.com/embed/7QLttfScGYc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

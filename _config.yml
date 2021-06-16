@@ -94,9 +94,9 @@ text:
     theme:        'theme'
 
 counters:
-  oss:      229
+  oss:      231
   projects: 9
-  speaks:   4
+  speaks:   6
 
 # Build settings
 markdown:     kramdown
