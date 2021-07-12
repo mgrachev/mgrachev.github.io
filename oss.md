@@ -7,6 +7,16 @@ permalink: /oss/
 <p class="center">&mdash; 2021 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[igoradamenko](https://github.com/igoradamenko){:target='_blank'}/[awesome-made-by-russians](https://github.com/igoradamenko/awesome-made-by-russians){:target='_blank'}
+-
+[#86](https://github.com/igoradamenko/awesome-made-by-russians/pull/86){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[up-for-grabs](https://github.com/up-for-grabs){:target='_blank'}/[up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net){:target='_blank'}
+-
+[#2778](https://github.com/up-for-grabs/up-for-grabs.net/pull/2778){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [CasbinRuby](https://github.com/CasbinRuby){:target='_blank'}/[casbin-ruby](https://github.com/CasbinRuby/casbin-ruby){:target='_blank'}
 -
 [#3](https://github.com/CasbinRuby/casbin-ruby/pull/3){:target='_blank'}
