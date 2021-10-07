@@ -7,6 +7,16 @@ permalink: /oss/
 <p class="center">&mdash; 2021 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[ueberauth](https://github.com/ueberauth){:target='_blank'}/[guardian](https://github.com/ueberauth/guardian){:target='_blank'}
+-
+[#678](https://github.com/ueberauth/guardian/pull/678){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[evrone](https://github.com/evrone){:target='_blank'}/[go-clean-template](https://github.com/evrone/go-clean-template){:target='_blank'}
+-
+[#32](https://github.com/evrone/go-clean-template/pull/32){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [igoradamenko](https://github.com/igoradamenko){:target='_blank'}/[awesome-made-by-russians](https://github.com/igoradamenko/awesome-made-by-russians){:target='_blank'}
 -
 [#86](https://github.com/igoradamenko/awesome-made-by-russians/pull/86){:target='_blank'}
