@@ -7,6 +7,13 @@ permalink: /oss/
 <p class="center">&mdash; 2021 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[tokio-rs](https://github.com/tokio-rs){:target='_blank'}/[website](https://github.com/tokio-rs/website){:target='_blank'}
+-
+[#613](https://github.com/tokio-rs/website/pull/613){:target='_blank'},
+[#614](https://github.com/tokio-rs/website/pull/614){:target='_blank'},
+[#616](https://github.com/tokio-rs/website/pull/616){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [ueberauth](https://github.com/ueberauth){:target='_blank'}/[guardian](https://github.com/ueberauth/guardian){:target='_blank'}
 -
 [#678](https://github.com/ueberauth/guardian/pull/678){:target='_blank'}
