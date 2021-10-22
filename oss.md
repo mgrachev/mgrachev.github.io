@@ -7,6 +7,11 @@ permalink: /oss/
 <p class="center">&mdash; 2021 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[DDtKey](https://github.com/DDtKey){:target='_blank'}/[actix-web-grants](https://github.com/DDtKey/actix-web-grants){:target='_blank'}
+-
+[#20](https://github.com/DDtKey/actix-web-grants/pull/20){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [tokio-rs](https://github.com/tokio-rs){:target='_blank'}/[website](https://github.com/tokio-rs/website){:target='_blank'}
 -
 [#613](https://github.com/tokio-rs/website/pull/613){:target='_blank'},
