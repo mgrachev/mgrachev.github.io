@@ -7,6 +7,11 @@ permalink: /oss/
 <p class="center">&mdash; 2021 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[substrate-developer-hub](https://github.com/substrate-developer-hub){:target='_blank'}/[substrate-docs](https://github.com/substrate-developer-hub/substrate-docs){:target='_blank'}
+-
+[#417](https://github.com/substrate-developer-hub/substrate-docs/pull/417){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [paritytech](https://github.com/paritytech){:target='_blank'}/[substrate](https://github.com/paritytech/substrate){:target='_blank'}
 -
 [#10086](https://github.com/paritytech/substrate/pull/10086){:target='_blank'}
