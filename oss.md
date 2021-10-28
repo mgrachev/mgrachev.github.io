@@ -3,8 +3,15 @@ layout: page
 title: Open Source Activity
 permalink: /oss/
 ---
+<br>
+_Note: PRs from [my projects](/projects) are not included in this list._
 
 <p class="center">&mdash; 2021 &mdash;</p>
+
+<span class="octicon octicon-repo"></span>
+[TheAlgorithms](https://github.com/TheAlgorithms){:target='_blank'}/[Rust](https://github.com/TheAlgorithms/Rust){:target='_blank'}
+-
+[#248](https://github.com/TheAlgorithms/Rust/pull/248){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [mgattozzi](https://github.com/mgattozzi){:target='_blank'}/[whorl](https://github.com/mgattozzi/whorl){:target='_blank'}
@@ -81,7 +88,34 @@ permalink: /oss/
 [#68782](https://github.com/Homebrew/homebrew-core/pull/68782){:target='_blank'},
 [#79012](https://github.com/Homebrew/homebrew-core/pull/79012){:target='_blank'}
 
+<span class="octicon octicon-repo"></span>
+[datanymizer](https://github.com/datanymizer){:target='_blank'}/[homebrew-tap](https://github.com/datanymizer/homebrew-tap){:target='_blank'}
+-
+[#1](https://github.com/datanymizer/homebrew-tap/pull/1){:target='_blank'},
+[#2](https://github.com/datanymizer/homebrew-tap/pull/2){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
+[datanymizer](https://github.com/datanymizer){:target='_blank'}/[datanymizer](https://github.com/datanymizer/datanymizer){:target='_blank'}
+-
+[#21](https://github.com/datanymizer/datanymizer/pull/21){:target='_blank'},
+[#24](https://github.com/datanymizer/datanymizer/pull/24){:target='_blank'},
+[#25](https://github.com/datanymizer/datanymizer/pull/25){:target='_blank'},
+[#101](https://github.com/datanymizer/datanymizer/pull/101){:target='_blank'},
+[#104](https://github.com/datanymizer/datanymizer/pull/104){:target='_blank'},
+[#109](https://github.com/datanymizer/datanymizer/pull/109){:target='_blank'},
+[#112](https://github.com/datanymizer/datanymizer/pull/112){:target='_blank'},
+[#113](https://github.com/datanymizer/datanymizer/pull/113){:target='_blank'},
+[#115](https://github.com/datanymizer/datanymizer/pull/115){:target='_blank'}
+
 <p class="center">&mdash; 2020 &mdash;</p>
+
+<span class="octicon octicon-repo"></span>
+[datanymizer](https://github.com/datanymizer){:target='_blank'}/[datanymizer](https://github.com/datanymizer/datanymizer){:target='_blank'}
+-
+[#11](https://github.com/datanymizer/datanymizer/pull/11){:target='_blank'},
+[#12](https://github.com/datanymizer/datanymizer/pull/12){:target='_blank'},
+[#15](https://github.com/datanymizer/datanymizer/pull/15){:target='_blank'},
+[#17](https://github.com/datanymizer/datanymizer/pull/17){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [rust-lang-nursery](https://github.com/rust-lang-nursery){:target='_blank'}/[rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook){:target='_blank'}
