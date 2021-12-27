@@ -9,6 +9,11 @@ _Note: PRs from [my projects](/projects) are not included in this list._
 <p class="center">&mdash; 2021 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[matklad](https://github.com/matklad){:target='_blank'}/[once_cell](https://github.com/matklad/once_cell){:target='_blank'}
+-
+[#169](https://github.com/matklad/once_cell/pull/169){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [TheAlgorithms](https://github.com/TheAlgorithms){:target='_blank'}/[Rust](https://github.com/TheAlgorithms/Rust){:target='_blank'}
 -
 [#248](https://github.com/TheAlgorithms/Rust/pull/248){:target='_blank'}
