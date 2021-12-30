@@ -398,10 +398,11 @@ My commits can be found in projects like this: <a href="/oss" target="_blank">ra
 ### My OSS projects
 * [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) — a linter for `.env` files written in Rust.
   Within this project, I also act as a mentor and help everyone who wants to start contributing to open source projects in Rust;
+* [update-informer](https://github.com/mgrachev/update-informer) - a Rust crate for checking updates in CLI applications;
+* [brevity](https://github.com/mgrachev/brevity) — a shortening links service in Go with ready-made helm charts for deployment in a Kubernetes cluster;
 * [gastly](https://github.com/mgrachev/gastly) — a Ruby library for creating screenshots of sites. Phantom.js and MiniMagick are used under the hood;
 * [capistrano-hanami](https://github.com/mgrachev/capistrano-hanami) — a Ruby library for deploying a Hanami project via Capistrano;
 * [mina-hanami](https://github.com/mgrachev/mina-hanami) — a Ruby library for deploying a Hanami project via Mina;
-* [brevity](https://github.com/mgrachev/brevity) — a shortening links service in Go with ready-made helm charts for deployment in a Kubernetes cluster;
 * [queue_manager](https://github.com/mgrachev/queue_manager) — a unique task queue manager in Ruby. Under the hood, Redis Sorted Sets. Supports ActiveJob and Global ID;
 * [pivotal_tracker_telegram_bot](https://github.com/mgrachev/pivotal_tracker_telegram_bot) — a Telegram bot in Ruby for receiving notifications from Pivotal Tracker. Under the hood is Sinatra and Redis PubSub.
 

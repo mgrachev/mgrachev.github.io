@@ -398,10 +398,11 @@ Docker и Docker Compose использую на всех проектах.
 ### Мои OSS проекты
 * [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) — линтер для `.env` файлов, написанный на Rust.
   В рамках этого проекта я так же выступаю в роли ментора и помогаю всем желающим начать контрибьютить в open source проекты на Rust;
-* [gastly](https://github.com/mgrachev/gastly) — библиотека на Ruby для создания скриншотов сайтов. Под капотом используется Phantom.js и MiniMagick;
-* [capistrano-hanami](https://github.com/mgrachev/capistrano-hanami) — библиотека на Ruby для развертывания проекта на Hanami через Capistrano;
-* [mina-hanami](https://github.com/mgrachev/mina-hanami) — библиотека на Ruby для развертывания проекта на Hanami через Mina;
+* [update-informer](https://github.com/mgrachev/update-informer) - библиотека на Rust для проверки обновлений в CLI приложениях;
 * [brevity](https://github.com/mgrachev/brevity) — сокращалка ссылок на Go с готовым helm-чартов для развертывания в Kubernetes кластере;
+* [gastly](https://github.com/mgrachev/gastly) — библиотека на Ruby для создания скриншотов сайтов. Под капотом используется Phantom.js и MiniMagick;
+* [capistrano-hanami](https://github.com/mgrachev/capistrano-hanami) — библиотека на Ruby для развертывания проектов на Hanami через Capistrano;
+* [mina-hanami](https://github.com/mgrachev/mina-hanami) — библиотека на Ruby для развертывания проектов на Hanami через Mina;
 * [queue_manager](https://github.com/mgrachev/queue_manager) — менеджер очереди уникальных задач на Ruby. Под капотом Redis Sorted Sets. Поддерживает ActiveJob и Global ID;
 * [pivotal_tracker_telegram_bot](https://github.com/mgrachev/pivotal_tracker_telegram_bot) — телеграм бот на Ruby для получения уведомлений из Pivotal Tracker. Под капотом Sinatra и Redis PubSub.
 
