@@ -6,8 +6,8 @@ permalink: /speaks/
 
 <p class="center">&mdash; 2021 &mdash;</p>
 
-[Экскурс в Rust для питонистов, рубистов и всех причастных](https://www.youtube.com/watch?v=V1bJsnBgwjg){:target='_blank'} / [RustCon 2021](https://rustcon.ru){:target='_blank'} / [Slides](https://github.com/mgrachev/slides/blob/master/2021/rust-con/excursion-into-rust.pdf){:target='_blank'}
-<iframe width="768" height="432" src="https://www.youtube.com/embed/V1bJsnBgwjg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Экскурс в Rust для питонистов, рубистов и всех причастных](https://www.youtube.com/watch?v=VtAqpIbcWFM){:target='_blank'} / [RustCon 2021](https://rustcon.ru){:target='_blank'} / [Slides](https://github.com/mgrachev/slides/blob/master/2021/rust-con/excursion-into-rust.pdf){:target='_blank'}
+<iframe width="768" height="432" src="https://www.youtube.com/embed/VtAqpIbcWFM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>
 
