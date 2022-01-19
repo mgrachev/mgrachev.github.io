@@ -67,9 +67,15 @@ permalink: /cv/
 **Backend developer (Rust, Go, Ruby, Elixir), Team Lead, DevOps engineer**<br>
 _February 2016 - Present_
 
-List of projects in which I took part:
+**_In addition to development, I also took part in:_**
+* Development of OSS directions - popularization of open source in the company, helping colleagues with their contributions;
+* Development of the Rust direction - the popularization of the language, mentoring of colleagues;
+* Writing articles for open source projects and their promotion;
+* Interviewing for Rust, Go, Ruby and Elixir developers.
 
-**[Jiseki Health](https://www.jisekihealth.com/){:target='_blank'}** — a medical concierge service,
+**_List of projects in which I took part:_**
+
+**[Jiseki Health](https://www.jisekihealth.com/){:target='_blank'}** (_**Elixir**_) — a medical concierge service,
 which helps clients to take care of their health and improve their quality of life.
 
 My participation in the project:
@@ -82,7 +88,7 @@ My participation in the project:
 
 <hr>
 
-**[Cryptopay](https://cryptopay.me){:target='_blank'}** — a multifunctional cryptocurrency payment service.
+**[Cryptopay](https://cryptopay.me){:target='_blank'}** (_**Rust**_, _**Go**_, _**DevOps**_) — a multifunctional cryptocurrency payment service.
 
 My participation in the project:
 * Team management, planning sprints, setting tasks, quality control of execution;
@@ -92,7 +98,7 @@ My participation in the project:
 
 <hr>
 
-**OpenUrban** - a traffic tracking service in St. Petersburg (analogue of Yandex.Transport).
+**OpenUrban** (_**Rust**_, _**Ruby**_, _**DevOps**_) - a traffic tracking service in St. Petersburg (analogue of Yandex.Transport).
 
 My participation in the project:
 * Configuring and deploying a Kubernetes cluster from scratch to bare metal;
@@ -104,7 +110,7 @@ My participation in the project:
 
 <hr>
 
-**Internal ERP system** — an internal project of the company to automate work processes.
+**Internal ERP system** (_**Rust**_, _**Ruby**_, _**Go**_, _**DevOps**_) — an internal project of the company to automate work processes.
 
 My participation in the project:
 * Team management, planning sprints, setting tasks, quality control of execution;
@@ -117,7 +123,7 @@ My participation in the project:
 
 <hr>
 
-**Mystery Mentor** — a marketplace for mentors that provides complete automation of the entire code review process.
+**Mystery Mentor** (_**Go**_, _**Node.js**_, _**Ruby**_, _**DevOps**_) — a marketplace for mentors that provides complete automation of the entire code review process.
 
 My participation in the project:
 * Development of the project from scratch, from design and writing of technical specifications to complete commissioning of the project;
@@ -129,7 +135,7 @@ My participation in the project:
 
 <hr>
 
-**[Hunamiq](https://humaniq.com){:target='_blank'}** — a new generation decentralized bank based on the Ethereum blockchain.
+**[Hunamiq](https://humaniq.com){:target='_blank'}** (_**Go**_, _**DevOps**_) — a new generation decentralized bank based on the Ethereum blockchain.
 
 My participation in the project:
 * Development of microservices in Go for:
@@ -145,7 +151,7 @@ My participation in the project:
 
 <hr>
 
-**[Invendor](https://invendor.ru){:target='_blank'}** — an aggregator of service centers.
+**[Invendor](https://invendor.ru){:target='_blank'}** (_**Ruby**_) — an aggregator of service centers.
 
 My participation in the project:
 * Development of the project from scratch, from design and writing of technical specifications to complete commissioning of the project;
@@ -157,7 +163,7 @@ My participation in the project:
 
 <hr>
 
-**[Cofoundit](https://cofoundit.ru){:target='_blank'}** — a online job search service in startups under the initiative of IIDF.
+**[Cofoundit](https://cofoundit.ru){:target='_blank'}** (_**Ruby**_) — a online job search service in startups under the initiative of IIDF.
 
 My participation in the project:
 * Development of the project from scratch, from design and writing of technical specifications to complete commissioning of the project;
@@ -167,7 +173,7 @@ My participation in the project:
 
 <hr>
 
-**[BS Limousine](https://www.bslimousine.com){:target='_blank'}** — a service for ordering business-class cars in Moscow (analogous to Uber).
+**[BS Limousine](https://www.bslimousine.com){:target='_blank'}** (_**Ruby**_) — a service for ordering business-class cars in Moscow (analogous to Uber).
 
 My participation in the project:
 * Team management, planning sprints, setting tasks, quality control of execution;
@@ -175,14 +181,6 @@ My participation in the project:
 * Implementation of payment for orders through Russian Standard Bank;
 * Build trip routes via Google Maps API;
 * Generation of travel reports in PDF format.
-
-<hr>
-
-**_In addition to development, I also took part in:_**
-* Development of OSS directions - popularization of open source in the company, helping colleagues with their contributions;
-* Development of the Rust direction - the popularization of the language, mentoring of colleagues;
-* Writing articles for open source projects and their promotion;
-* Interviewing for Rust, Go, Ruby and Elixir developers.
 
 <hr>
 
