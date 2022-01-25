@@ -6,6 +6,13 @@ permalink: /oss/
 <br>
 _Note: PRs from [my projects](/projects) are not included in this list._
 
+<p class="center">&mdash; 2022 &mdash;</p>
+
+<span class="octicon octicon-repo"></span>
+[Homebrew](https://github.com/Homebrew){:target='_blank'}/[homebrew-core](https://github.com/Homebrew/homebrew-core){:target='_blank'}
+-
+[#93722](https://github.com/Homebrew/homebrew-core/pull/93722){:target='_blank'}
+
 <p class="center">&mdash; 2021 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
