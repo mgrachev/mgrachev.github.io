@@ -9,6 +9,11 @@ _Note: PRs from [my projects](/projects) are not included in this list._
 <p class="center">&mdash; 2022 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[rust-lang](https://github.com/rust-lang){:target='_blank'}/[this-week-in-rust](https://github.com/rust-lang/this-week-in-rust){:target='_blank'}
+-
+[#2841](https://github.com/rust-lang/this-week-in-rust/pull/2841){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [Homebrew](https://github.com/Homebrew){:target='_blank'}/[homebrew-core](https://github.com/Homebrew/homebrew-core){:target='_blank'}
 -
 [#93722](https://github.com/Homebrew/homebrew-core/pull/93722){:target='_blank'}
@@ -88,11 +93,11 @@ _Note: PRs from [my projects](/projects) are not included in this list._
 [#869](https://github.com/reviewdog/reviewdog/pull/869){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
-[emberian](https://github.com/emberian){:target='_blank'}/[this-week-in-rust](https://github.com/emberian/this-week-in-rust){:target='_blank'}
+[rust-lang](https://github.com/rust-lang){:target='_blank'}/[this-week-in-rust](https://github.com/rust-lang/this-week-in-rust){:target='_blank'}
 -
-[#1762](https://github.com/emberian/this-week-in-rust/pull/1762){:target='_blank'},
-[#1776](https://github.com/emberian/this-week-in-rust/pull/1776){:target='_blank'},
-[#2085](https://github.com/emberian/this-week-in-rust/pull/2085){:target='_blank'}
+[#1762](https://github.com/rust-lang/this-week-in-rust/pull/1762){:target='_blank'},
+[#1776](https://github.com/rust-lang/this-week-in-rust/pull/1776){:target='_blank'},
+[#2085](https://github.com/rust-lang/this-week-in-rust/pull/2085){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [Homebrew](https://github.com/Homebrew){:target='_blank'}/[homebrew-core](https://github.com/Homebrew/homebrew-core){:target='_blank'}
@@ -177,12 +182,12 @@ _Note: PRs from [my projects](/projects) are not included in this list._
 [#9](https://github.com/uhub/awesome-shell/pull/9){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
-[emberian](https://github.com/emberian){:target='_blank'}/[this-week-in-rust](https://github.com/emberian/this-week-in-rust){:target='_blank'}
+[rust-lang](https://github.com/rust-lang){:target='_blank'}/[this-week-in-rust](https://github.com/rust-lang/this-week-in-rust){:target='_blank'}
 -
-[#1262](https://github.com/emberian/this-week-in-rust/pull/1262){:target='_blank'},
-[#1269](https://github.com/emberian/this-week-in-rust/pull/1269){:target='_blank'},
-[#1579](https://github.com/emberian/this-week-in-rust/pull/1579){:target='_blank'},
-[#1688](https://github.com/emberian/this-week-in-rust/pull/1688){:target='_blank'}
+[#1262](https://github.com/rust-lang/this-week-in-rust/pull/1262){:target='_blank'},
+[#1269](https://github.com/rust-lang/this-week-in-rust/pull/1269){:target='_blank'},
+[#1579](https://github.com/rust-lang/this-week-in-rust/pull/1579){:target='_blank'},
+[#1688](https://github.com/rust-lang/this-week-in-rust/pull/1688){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [goreleaser](https://github.com/goreleaser){:target='_blank'}/[goreleaser](https://github.com/goreleaser/goreleaser){:target='_blank'}
