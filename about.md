@@ -9,11 +9,11 @@ permalink: /about/
         <img width="200" height="200" src="https://avatars3.githubusercontent.com/u/700998" alt="Mikhail Grachev" class="avatar" />
     </div>
     <div>
-        🚀 Senior Software Engineer (Rust, Go, Ruby)<br>
+        🚀 Senior Software Engineer (Rust, Go, Ruby, Elixir)<br>
         🐳 DevOps Engineer<br>
         💪 Team lead<br>
-        🎤 <a href="/speaks" target="_blank">Speaker</a><sup class="counter">{{ site.counters.speaks }}</sup><br>
-        😍 Open Source activist & <a href="/oss" target="_blank">contributor</a><sup class="counter">{{ site.counters.oss }}</sup><br>
+        🎤 <a href="/speaks">Speaker</a><sup class="counter">{{ site.counters.speaks }}</sup><br>
+        😍 Open Source activist & <a href="/oss">contributor</a><sup class="counter">{{ site.counters.oss }}</sup><br>
         <br>
         
         <i class="fab fa-osi fa-lg"></i> Core-contributor:

@@ -40,6 +40,7 @@ permalink: /cv/
 
 ## Table of contents:
 * [Professional experience](#professional-experience)
+  * [Foxford](#foxford)
   * [Evrone](#evrone)
   * [MDK](#mdk)
   * [Laboratory of Electronic Textbooks](#laboratory-of-electronic-textbooks) 
@@ -63,9 +64,22 @@ permalink: /cv/
 
 ## Professional experience
 
+### Foxford
+**Backend developer (Rust)**<br>
+_February 2021 — Present_
+
+**[Foxford](https://foxford.ru){:target='_blank'}** — An online school for students of grades 1-11, preschoolers, teachers and parents.
+
+My participation in the project:
+* Development of our own platform for holding webinars in real time (Live Streaming), transcoding and distribution of records of past events (VoD), instant messaging and events.
+
+The project code is open and available on GitHub: [github.com/foxford](https://github.com/foxford){:target='_blank'}
+
+<hr>
+
 ### Evrone
 **Backend developer (Rust, Go, Ruby, Elixir), Team Lead, DevOps engineer**<br>
-_February 2016 - Present_
+_February 2016 - January 2021_
 
 **_In addition to development, I also took part in:_**
 * Development of OSS directions - popularization of open source in the company, helping colleagues with their contributions;
