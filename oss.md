@@ -11,7 +11,8 @@ _Note: PRs from [my projects](/projects) are not included in this list._
 <span class="octicon octicon-repo"></span>
 [rust-lang](https://github.com/rust-lang){:target='_blank'}/[this-week-in-rust](https://github.com/rust-lang/this-week-in-rust){:target='_blank'}
 -
-[#2841](https://github.com/rust-lang/this-week-in-rust/pull/2841){:target='_blank'}
+[#2841](https://github.com/rust-lang/this-week-in-rust/pull/2841){:target='_blank'},
+[#2907](https://github.com/rust-lang/this-week-in-rust/pull/2907){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [Homebrew](https://github.com/Homebrew){:target='_blank'}/[homebrew-core](https://github.com/Homebrew/homebrew-core){:target='_blank'}
