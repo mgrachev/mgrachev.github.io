@@ -9,6 +9,11 @@ _Note: PRs from [my projects](/projects) are not included in this list._
 <p class="center">&mdash; 2022 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[tower-rs](https://github.com/tower-rs){:target='_blank'}/[tower](https://github.com/tower-rs/tower){:target='_blank'}
+-
+[#646](https://github.com/tower-rs/tower/pull/646){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [rust-lang](https://github.com/rust-lang){:target='_blank'}/[this-week-in-rust](https://github.com/rust-lang/this-week-in-rust){:target='_blank'}
 -
 [#2841](https://github.com/rust-lang/this-week-in-rust/pull/2841){:target='_blank'},
