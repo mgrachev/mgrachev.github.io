@@ -9,6 +9,11 @@ _Note: PRs from [my projects](/projects) are not included in this list._
 <p class="center">&mdash; 2022 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[launchbadge](https://github.com/launchbadge){:target='_blank'}/[sqlx](https://github.com/launchbadge/sqlx){:target='_blank'}
+-
+[#1741](https://github.com/launchbadge/sqlx/pull/1741){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [tower-rs](https://github.com/tower-rs){:target='_blank'}/[tower](https://github.com/tower-rs/tower){:target='_blank'}
 -
 [#646](https://github.com/tower-rs/tower/pull/646){:target='_blank'}
