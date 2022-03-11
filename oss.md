@@ -14,6 +14,11 @@ _Note: PRs from [my projects](/projects) are not included in this list._
 [#1741](https://github.com/launchbadge/sqlx/pull/1741){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
+[tokio-rs](https://github.com/tokio-rs){:target='_blank'}/[axum](https://github.com/tokio-rs/axum){:target='_blank'}
+-
+[#787](https://github.com/tokio-rs/axum/pull/787){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [tower-rs](https://github.com/tower-rs){:target='_blank'}/[tower](https://github.com/tower-rs/tower){:target='_blank'}
 -
 [#646](https://github.com/tower-rs/tower/pull/646){:target='_blank'}
