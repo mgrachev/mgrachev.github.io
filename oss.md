@@ -9,6 +9,11 @@ _Note: PRs from [my projects](/projects) are not included in this list._
 <p class="center">&mdash; 2022 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[clap-rs](https://github.com/clap-rs){:target='_blank'}/[clap](https://github.com/clap-rs/clap){:target='_blank'}
+-
+[#3554](https://github.com/clap-rs/clap/pull/3554){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [boa-dev](https://github.com/boa-dev){:target='_blank'}/[criterion-compare-action](https://github.com/boa-dev/criterion-compare-action){:target='_blank'}
 -
 [#40](https://github.com/boa-dev/criterion-compare-action/pull/40){:target='_blank'}
