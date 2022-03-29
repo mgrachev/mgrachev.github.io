@@ -9,6 +9,11 @@ _Note: PRs from [my projects](/projects) are not included in this list._
 <p class="center">&mdash; 2022 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[orhun](https://github.com/orhun){:target='_blank'}/[git-cliff](https://github.com/orhun/git-cliff){:target='_blank'}
+-
+[#73](https://github.com/orhun/git-cliff/pull/73){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [rust-unofficial](https://github.com/rust-unofficial){:target='_blank'}/[awesome-rust](https://github.com/rust-unofficial/awesome-rust){:target='_blank'}
 -
 [#1218](https://github.com/rust-unofficial/awesome-rust/pull/1218){:target='_blank'}
