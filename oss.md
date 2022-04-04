@@ -37,7 +37,8 @@ _Note: PRs from [my projects](/projects) are not included in this list._
 <span class="octicon octicon-repo"></span>
 [tokio-rs](https://github.com/tokio-rs){:target='_blank'}/[axum](https://github.com/tokio-rs/axum){:target='_blank'}
 -
-[#787](https://github.com/tokio-rs/axum/pull/787){:target='_blank'}
+[#787](https://github.com/tokio-rs/axum/pull/787){:target='_blank'},
+[#906](https://github.com/tokio-rs/axum/pull/906){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [tower-rs](https://github.com/tower-rs){:target='_blank'}/[tower](https://github.com/tower-rs/tower){:target='_blank'}
