@@ -9,6 +9,11 @@ _Note: PRs from [my projects](/projects) are not included in this list._
 <p class="center">&mdash; 2022 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[evrone](https://github.com/evrone){:target='_blank'}/[go-clean-template](https://github.com/evrone/go-clean-template){:target='_blank'}
+-
+[#119](https://github.com/evrone/go-clean-template/pull/119){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [orhun](https://github.com/orhun){:target='_blank'}/[git-cliff](https://github.com/orhun/git-cliff){:target='_blank'}
 -
 [#73](https://github.com/orhun/git-cliff/pull/73){:target='_blank'}
