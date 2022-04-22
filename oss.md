@@ -9,6 +9,11 @@ _Note: PRs from [my projects](/projects) are not included in this list._
 <p class="center">&mdash; 2022 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[nats-io](https://github.com/nats-io){:target='_blank'}/[nats.rs](https://github.com/nats-io/nats.rs){:target='_blank'}
+-
+[#384](https://github.com/nats-io/nats.rs/pull/384){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [evrone](https://github.com/evrone){:target='_blank'}/[go-clean-template](https://github.com/evrone/go-clean-template){:target='_blank'}
 -
 [#119](https://github.com/evrone/go-clean-template/pull/119){:target='_blank'}
