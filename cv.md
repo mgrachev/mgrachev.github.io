@@ -19,7 +19,7 @@ permalink: /cv/
 
 ## TL;DR (EN | [RU](/cv_ru))
 
-<i class="fas fa-address-card fa-lg" style="margin-left:2px; margin-right: 1px;"></i> I'm 33 years old
+<i class="fas fa-address-card fa-lg" style="margin-left:2px; margin-right: 1px;"></i> I'm 33 years old.
 <br>
 <i class="fas fa-laptop-code fa-lg"></i> Backend developer and Team Lead. Professional development experience <i class="fas fa-angle-right"></i> {{ site.time | date: '%Y' | minus: 2008 }} years.
 <br>
