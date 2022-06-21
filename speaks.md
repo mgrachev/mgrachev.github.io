@@ -4,6 +4,12 @@ title: Speaks
 permalink: /speaks/
 ---
 
+<p class="center">&mdash; 2022 &mdash;</p>
+
+[Взращивание культуры Open Source в компании](https://www.youtube.com/watch?v=-n71d4gqxrw){:target='_blank'} / [MergeConf 2022](https://mergeconf.ru){:target='_blank'} / [Slides](https://github.com/mgrachev/slides/blob/master/2022/merge/oss-culture.pdf){:target='_blank'}
+<iframe width="768" height="432" src="https://www.youtube.com/embed/-n71d4gqxrw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p></p>
 <p class="center">&mdash; 2021 &mdash;</p>
 
 [Экскурс в Rust для питонистов, рубистов и всех причастных](https://www.youtube.com/watch?v=VtAqpIbcWFM){:target='_blank'} / [RustCon 2021](https://rustcon.ru){:target='_blank'} / [Slides](https://github.com/mgrachev/slides/blob/master/2021/rust-con/excursion-into-rust.pdf){:target='_blank'}
