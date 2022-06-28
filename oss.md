@@ -26,7 +26,8 @@ _Note: PRs from [my projects](/projects) are not included in this list._
 <span class="octicon octicon-repo"></span>
 [rust-unofficial](https://github.com/rust-unofficial){:target='_blank'}/[awesome-rust](https://github.com/rust-unofficial/awesome-rust){:target='_blank'}
 -
-[#1218](https://github.com/rust-unofficial/awesome-rust/pull/1218){:target='_blank'}
+[#1218](https://github.com/rust-unofficial/awesome-rust/pull/1218){:target='_blank'},
+[#1307](https://github.com/rust-unofficial/awesome-rust/pull/1307){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [clap-rs](https://github.com/clap-rs){:target='_blank'}/[clap](https://github.com/clap-rs/clap){:target='_blank'}
