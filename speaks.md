@@ -9,6 +9,11 @@ permalink: /speaks/
 [Взращивание культуры Open Source в компании](https://www.youtube.com/watch?v=-n71d4gqxrw){:target='_blank'} / [MergeConf 2022](https://mergeconf.ru){:target='_blank'} / [Slides](https://github.com/mgrachev/slides/blob/master/2022/merge/oss-culture.pdf){:target='_blank'}
 <iframe width="768" height="432" src="https://www.youtube.com/embed/-n71d4gqxrw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br/>
+
+[Dotenv-linter](https://www.youtube.com/watch?v=6e0wzxnUGuE&t=3175s){:target='_blank'} / [HighLoad++ Foundation 2022](https://highload.ru){:target='_blank'} / [Slides](https://github.com/mgrachev/slides/blob/master/2022/highload/dotenv_linter.pdf){:target='_blank'}
+<iframe width="768" height="432" src="https://www.youtube.com/embed/6e0wzxnUGuE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <p></p>
 <p class="center">&mdash; 2021 &mdash;</p>
 
@@ -27,7 +32,7 @@ permalink: /speaks/
 
 <br/>
 
-[Линтеры: на страже порядка](https://www.youtube.com/watch?v=7QLttfScGYc&t=2h24m42s){:target='_blank'} / [Saint P Ruby Winter Meetup](https://kommunity.com/saintpruby/events/winter-meetup-2021-6b2d4c4f){:target='_blank'} / [Slides](https://github.com/mgrachev/slides/blob/master/2021/saint-p-ruby-meetup/linters.pdf){:target='_blank'}
+[Линтеры: на страже порядка](https://www.youtube.com/watch?v=7QLttfScGYc&t=8682s){:target='_blank'} / [Saint P Ruby Winter Meetup](https://kommunity.com/saintpruby/events/winter-meetup-2021-6b2d4c4f){:target='_blank'} / [Slides](https://github.com/mgrachev/slides/blob/master/2021/saint-p-ruby-meetup/linters.pdf){:target='_blank'}
 <iframe width="768" height="432" src="https://www.youtube.com/embed/7QLttfScGYc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p></p>

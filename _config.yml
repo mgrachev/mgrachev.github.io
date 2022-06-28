@@ -96,7 +96,7 @@ text:
 counters:
   oss:      274
   projects: 4
-  speaks:   8
+  speaks:   9
 
 # Build settings
 markdown:     kramdown
