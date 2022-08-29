@@ -11,6 +11,7 @@ We are happy to announce the release of a new version of [dotenv-linter](https:/
 ![dotenv-linter]({{ site.url }}/assets/images/2021-06-10-dotenv-linter-v310/dotenv-linter-v310-m8d3o8asgd7.png){: .center-image }
 
 ### What is dotenv-linter?
+
 [Dotenv-linter](https://github.com/dotenv-linter/dotenv-linter){:target='_blank'} is a lightning-fast linter for checking, fixing and comparing `.env` files.<br />
 And it's written in [Rust](https://www.rust-lang.org){:target='_blank'} 🦀
 
