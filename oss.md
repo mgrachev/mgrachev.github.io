@@ -9,6 +9,11 @@ _Note: PRs from [my projects](/projects) are not included in this list._
 <p class="center">&mdash; 2022 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[charliermarsh](https://github.com/charliermarsh){:target='_blank'}/[ruff](https://github.com/charliermarsh/ruff){:target='_blank'}
+-
+[#90](https://github.com/charliermarsh/ruff/pull/90){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [comtrya](https://github.com/comtrya){:target='_blank'}/[comtrya](https://github.com/comtrya/comtrya){:target='_blank'}
 -
 [#224](https://github.com/comtrya/comtrya/pull/224){:target='_blank'}
