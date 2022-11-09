@@ -9,6 +9,11 @@ _Note: PRs from [my projects](/projects) are not included in this list._
 <p class="center">&mdash; 2022 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[rust-lang](https://github.com/rust-lang){:target='_blank'}/[rust-clippy](https://github.com/rust-lang/rust-clippy){:target='_blank'}
+-
+[#9817](https://github.com/rust-lang/rust-clippy/pull/9817){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [denoland](https://github.com/denoland){:target='_blank'}/[manual](https://github.com/denoland/manual){:target='_blank'}
 -
 [#395](https://github.com/denoland/manual/pull/395){:target='_blank'}
