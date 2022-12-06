@@ -19,7 +19,7 @@ permalink: /cv/
 
 ## TL;DR (EN | [RU](/cv_ru))
 
-<i class="fas fa-address-card fa-lg" style="margin-left:2px; margin-right: 1px;"></i> I'm 33 years old.
+<i class="fas fa-address-card fa-lg" style="margin-left:2px; margin-right: 1px;"></i> I'm 35 years old.
 <br>
 <i class="fas fa-laptop-code fa-lg"></i> Backend developer and Team Lead. Professional development experience <i class="fas fa-angle-right"></i> {{ site.time | date: '%Y' | minus: 2008 }} years.
 <br>
@@ -28,6 +28,8 @@ permalink: /cv/
 <i class="fab fa-docker fa-lg"></i> DevOps engineer. I can set up and configure a Kubernetes cluster from scratch. 
 <br>
 <i class="fas fa-microphone fa-lg" style="margin-left:5px; margin-right: 10px;"></i> I speak at <a href="/speaks" target="_blank">meetups / conferences</a><sup class="counter">{{ site.counters.speaks }}</sup>
+<br>
+<i class="fas fa-fire fa-lg" style="margin-left:5px; margin-right: 10px;"></i> I'm part of program committee <a href="https://rustcon.ru" target="_blank">RustCon</a>.
 <br>
 <i class="fab fa-osi fa-lg" style="margin-left:1px; margin-right: 5px;"></i> Open Source activist and <a href="/oss" target="_blank">contributor</a><sup class="counter">{{ site.counters.oss }}</sup>
 <br>
@@ -66,7 +68,7 @@ permalink: /cv/
 
 ### Foxford
 **Backend developer (Rust)**<br>
-_February 2021 — Present_
+_February 2022 — Present_
 
 **[Foxford](https://foxford.ru){:target='_blank'}** — An online school for students of grades 1-11, preschoolers, teachers and parents.
 
@@ -79,7 +81,7 @@ The project code is open and available on GitHub: [github.com/foxford](https://g
 
 ### Evrone
 **Backend developer (Rust, Go, Ruby, Elixir), Team Lead, DevOps engineer**<br>
-_February 2016 - January 2021_
+_February 2016 - January 2022_
 
 **_In addition to development, I also took part in:_**
 * Development of OSS directions - popularization of open source in the company, helping colleagues with their contributions;

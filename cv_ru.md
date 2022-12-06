@@ -19,7 +19,7 @@ permalink: /cv_ru/
 
 ## TL;DR ([EN](/cv) | RU)
 
-<i class="fas fa-address-card fa-lg" style="margin-left:2px; margin-right: 1px;"></i> Мне 33 года.
+<i class="fas fa-address-card fa-lg" style="margin-left:2px; margin-right: 1px;"></i> Мне 35 года.
 <br>
 <i class="fas fa-laptop-code fa-lg"></i> Backend-разработчик и Team Lead. Опыт профессиональной разработки <i class="fas fa-angle-right"></i> {{ site.time | date: '%Y' | minus: 2008 }} лет.
 <br>
@@ -28,6 +28,8 @@ permalink: /cv_ru/
 <i class="fab fa-docker fa-lg"></i> DevOps инженер. Могу поднять и настроить Kubernetes кластер с нуля.
 <br>
 <i class="fas fa-microphone fa-lg" style="margin-left:5px; margin-right: 10px;"></i> Выступаю на <a href="/speaks" target="_blank">митапах / конференциях</a><sup class="counter">{{ site.counters.speaks }}</sup>
+<br>
+<i class="fas fa-fire fa-lg" style="margin-left:5px; margin-right: 10px;"></i> Вхожу в состав ПК <a href="https://rustcon.ru" target="_blank">RustCon</a>.
 <br>
 <i class="fab fa-osi fa-lg" style="margin-left:1px; margin-right: 5px;"></i> Open Source активист и <a href="/oss" target="_blank">контрибьютор</a><sup class="counter">{{ site.counters.oss }}</sup>
 <br>
@@ -66,7 +68,7 @@ permalink: /cv_ru/
 
 ### Foxford
 **Backend разработчик (Rust)**<br>
-_Февраль 2021 — По настоящее время_
+_Февраль 2022 — По настоящее время_
 
 **[Foxford](https://foxford.ru){:target='_blank'}** — онлайн-школа для учеников 1−11 классов, дошкольников, учителей и родителей.
 
@@ -79,7 +81,7 @@ _Февраль 2021 — По настоящее время_
 
 ### Evrone
 **Backend разработчик (Rust, Go, Ruby, Elixir), Team Lead, DevOps-инженер**<br>
-_Февраль 2016 — Январь 2021_
+_Февраль 2016 — Январь 2022_
 
 **_Помимо разработки, я так же принимал участие в:_**
 * Развитие OSS направления — популизация open source в компании, помощь коллегам с их контрибьютами;
