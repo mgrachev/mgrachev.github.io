@@ -23,7 +23,7 @@ permalink: /cv/
 <br>
 <i class="fas fa-laptop-code fa-lg"></i> Backend developer and Team Lead. Professional development experience <i class="fas fa-angle-right"></i> {{ site.time | date: '%Y' | minus: 2008 }} years.
 <br>
-<i class="fab fa-rust fa-lg" style="margin-left:2px; margin-right: 5px;"></i> I mostly write code in Rust, but I also know Go, Ruby and Elixir very well.
+<i class="fab fa-rust fa-lg" style="margin-left:2px; margin-right: 5px;"></i> I mostly write code in Rust, but I also know Go, Ruby and Elixir.
 <br>
 <i class="fab fa-docker fa-lg"></i> DevOps engineer. I can set up and configure a Kubernetes cluster from scratch. 
 <br>
@@ -58,6 +58,7 @@ permalink: /cv/
 * [Professional skills](#professional-skills)
   * [Backend](#backend)
   * [Database](#database)
+  * [Brokers](#brokers)
   * [DevOps](#devops)
 * [Open Source activity](#open-source-activity)
   * [My projects](#my-oss-projects)
@@ -73,9 +74,10 @@ _February 2022 — Present_
 **[Foxford](https://foxford.ru){:target='_blank'}** — An online school for students of grades 1-11, preschoolers, teachers and parents.
 
 My participation in the project:
-* Development of our own platform for holding webinars in real time (Live Streaming), transcoding and distribution of records of past events (VoD), instant messaging and events.
+* Development and support of our own platform for holding webinars in real time (Live Streaming), transcoding and distribution of records of past events (VoD), instant messaging and events;
+* Implementation of the [presence service](https://github.com/foxford/presence){:target='_blank'} — providing information about online users participating in webinars through WebSocket connections, as well as sending messages from internal services out through Nats.
 
-The project code is open and available on GitHub: [github.com/foxford](https://github.com/foxford){:target='_blank'}
+The code of all projects is open and available on GitHub: [github.com/foxford](https://github.com/foxford){:target='_blank'}
 
 <hr>
 
@@ -389,6 +391,12 @@ As well as development experience on Node.js using Express framework.
 Since 2012, I have been using PostgreSQL as a DBMS, before that I worked with MySQL.
 
 From NoSQL solutions I prefer to use Redis, I have experience with MongoDB and Memcached.
+
+### Brokers
+
+Most of all worked with RabbitMQ and Nats.
+
+I also have some experience with Apache Kafka.
 
 ### DevOps
 

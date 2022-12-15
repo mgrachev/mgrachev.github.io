@@ -19,11 +19,11 @@ permalink: /cv_ru/
 
 ## TL;DR ([EN](/cv) | RU)
 
-<i class="fas fa-address-card fa-lg" style="margin-left:2px; margin-right: 1px;"></i> Мне 35 года.
+<i class="fas fa-address-card fa-lg" style="margin-left:2px; margin-right: 1px;"></i> Мне 35 лет.
 <br>
 <i class="fas fa-laptop-code fa-lg"></i> Backend-разработчик и Team Lead. Опыт профессиональной разработки <i class="fas fa-angle-right"></i> {{ site.time | date: '%Y' | minus: 2008 }} лет.
 <br>
-<i class="fab fa-rust fa-lg" style="margin-left:2px; margin-right: 5px;"></i> В основном пишу код на Rust, но так же хорошо знаю Go, Ruby и Elixir.
+<i class="fab fa-rust fa-lg" style="margin-left:2px; margin-right: 5px;"></i> В основном пишу код на Rust, но так же знаю Go, Ruby и Elixir.
 <br>
 <i class="fab fa-docker fa-lg"></i> DevOps инженер. Могу поднять и настроить Kubernetes кластер с нуля.
 <br>
@@ -58,6 +58,7 @@ permalink: /cv_ru/
 * [Профессиональные навыки](#профессиональные-навыки)
   * [Backend](#backend)
   * [Базы данных](#базы-данных)
+  * [Брокеры сообщений](#брокеры-сообщений)
   * [DevOps](#devops)
 * [Open Source активность](#open-source-активность)
   * [Мои проекты](#мои-oss-проекты)
@@ -73,9 +74,10 @@ _Февраль 2022 — По настоящее время_
 **[Foxford](https://foxford.ru){:target='_blank'}** — онлайн-школа для учеников 1−11 классов, дошкольников, учителей и родителей.
 
 Мое участие в проекте:
-* Разработка собственной платформы для проведения вебинаров в реальном времени (Live Streaming), транскодинга и распространения записей прошедших мероприятий (VoD), мгновенного обмена сообщениями и событиями.
+* Разработка и поддержка собственной платформы для проведения вебинаров в реальном времени (Live Streaming), транскодинга и распространения записей прошедших мероприятий (VoD), мгновенного обмена сообщениями и событиями;
+* Реализация [сервиса присутствия](https://github.com/foxford/presence){:target='_blank'} - предоставление информации об онлайн-пользователях, участвующих в вебинарах посредством WebSocket соединений, а также пересылка сообщений из внутренних сервисов наружу через Nats.
 
-Код проекта открыт и доступен на GitHub: [github.com/foxford](https://github.com/foxford){:target='_blank'}
+Код всех проектов открыт и доступен на GitHub: [github.com/foxford](https://github.com/foxford){:target='_blank'}
 
 <hr>
 
@@ -389,6 +391,12 @@ _Сентябрь 2008 — Октябрь 2009_
 С 2012 года, в качестве СУБД использую PostgreSQL, до этого работал с MySQL.
 
 Из NoSQL решений предпочитаю использовать Redis, есть опыт работы с MongoDB и Memcached.
+
+### Брокеры сообщений
+
+Больше всего работал с RabbitMQ и Nats.
+
+У меня также есть небольшой опыт работы с Apache Kafka.
 
 ### DevOps
 
