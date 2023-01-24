@@ -19,8 +19,6 @@ permalink: /cv_ru/
 
 ## TL;DR ([EN](/cv) | RU)
 
-<i class="fas fa-address-card fa-lg" style="margin-left:2px; margin-right: 1px;"></i> Мне 35 лет.
-<br>
 <i class="fas fa-laptop-code fa-lg"></i> Backend-разработчик и Team Lead. Опыт профессиональной разработки <i class="fas fa-angle-right"></i> {{ site.time | date: '%Y' | minus: 2008 }} лет.
 <br>
 <i class="fab fa-rust fa-lg" style="margin-left:2px; margin-right: 5px;"></i> В основном пишу код на Rust, но так же знаю Go, Ruby и Elixir.
