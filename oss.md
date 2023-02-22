@@ -6,6 +6,13 @@ permalink: /oss/
 <br>
 _Note: PRs from [my projects](/projects) are not included in this list._
 
+<p class="center">&mdash; 2023 &mdash;</p>
+
+<span class="octicon octicon-repo"></span>
+[weiznich](https://github.com/weiznich){:target='_blank'}/[diesel_async](https://github.com/weiznich/diesel_async){:target='_blank'}
+-
+[#61](https://github.com/weiznich/diesel_async/pull/61){:target='_blank'}
+
 <p class="center">&mdash; 2022 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
