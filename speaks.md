@@ -43,8 +43,8 @@ permalink: /speaks/
  
 <br/>
 
-[Rust: просто о сложном (rev. 1)](https://www.youtube.com/watch?v=n3kyvMVck_M){:target='_blank'} / [Meta/conf: Backend Meetup 2020](https://metaconf.net/backend-meetup-2020){:target='_blank'} / [Slides](https://github.com/mgrachev/slides/blob/master/2020/metaconf-backend/easy-rust.pdf){:target='_blank'}
-<iframe width="768" height="432" src="https://www.youtube.com/embed/n3kyvMVck_M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Rust: просто о сложном (rev. 1)](https://www.youtube.com/watch?v=JF7j8N4xGuQ){:target='_blank'} / [Meta/conf: Backend Meetup 2020](https://metaconf.net/backend-meetup-2020){:target='_blank'} / [Slides](https://github.com/mgrachev/slides/blob/master/2020/metaconf-backend/easy-rust.pdf){:target='_blank'}
+<iframe width="768" height="432" src="https://www.youtube.com/embed/JF7j8N4xGuQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p></p>
 <p class="center">&mdash; 2019 &mdash;</p>
