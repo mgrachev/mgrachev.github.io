@@ -9,6 +9,11 @@ _Note: PRs from [my projects](/projects) are not included in this list._
 <p class="center">&mdash; 2023 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[nats-io](https://github.com/nats-io){:target='_blank'}/[nats.rs](https://github.com/nats-io/nats.rs){:target='_blank'}
+-
+[#904](https://github.com/nats-io/nats.rs/pull/904){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [tokio-rs](https://github.com/tokio-rs){:target='_blank'}/[tokio](https://github.com/tokio-rs/tokio){:target='_blank'}
 -
 [#5511](https://github.com/tokio-rs/tokio/pull/5511){:target='_blank'}
