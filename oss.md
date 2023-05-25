@@ -9,6 +9,11 @@ _Note: PRs from [my projects](/projects) are not included in this list._
 <p class="center">&mdash; 2023 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[rust-lang](https://github.com/rust-lang){:target='_blank'}/[this-week-in-rust](https://github.com/rust-lang/this-week-in-rust){:target='_blank'}
+-
+[#4388](https://github.com/rust-lang/this-week-in-rust/pull/4388){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [vercel](https://github.com/vercel){:target='_blank'}/[turbo](https://github.com/vercel/turbo){:target='_blank'}
 -
 [#4867](https://github.com/vercel/turbo/pull/4867){:target='_blank'}
