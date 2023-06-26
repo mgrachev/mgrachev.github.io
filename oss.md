@@ -16,7 +16,8 @@ _Note: PRs from [my projects](/projects) are not included in this list._
 <span class="octicon octicon-repo"></span>
 [vercel](https://github.com/vercel){:target='_blank'}/[turbo](https://github.com/vercel/turbo){:target='_blank'}
 -
-[#4867](https://github.com/vercel/turbo/pull/4867){:target='_blank'}
+[#4867](https://github.com/vercel/turbo/pull/4867){:target='_blank'},
+[#5382](https://github.com/vercel/turbo/pull/5382){:target='_blank'}
 
 <span class="octicon octicon-repo"></span>
 [nats-io](https://github.com/nats-io){:target='_blank'}/[nats.rs](https://github.com/nats-io/nats.rs){:target='_blank'}
