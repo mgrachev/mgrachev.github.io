@@ -9,6 +9,11 @@ _Note: PRs from [my projects](/projects) are not included in this list._
 <p class="center">&mdash; 2023 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
+[graphicsmagick-rs](https://github.com/graphicsmagick-rs){:target='_blank'}/[graphicsmagick-rs](https://github.com/graphicsmagick-rs/graphicsmagick-rs){:target='_blank'}
+-
+[#43](https://github.com/graphicsmagick-rs/graphicsmagick-rs/pull/43){:target='_blank'}
+
+<span class="octicon octicon-repo"></span>
 [rust-lang](https://github.com/rust-lang){:target='_blank'}/[this-week-in-rust](https://github.com/rust-lang/this-week-in-rust){:target='_blank'}
 -
 [#4388](https://github.com/rust-lang/this-week-in-rust/pull/4388){:target='_blank'}
