@@ -6,6 +6,13 @@ permalink: /oss/
 <br>
 _Note: PRs from [my projects](/projects) are not included in this list._
 
+<p class="center">&mdash; 2025 &mdash;</p>
+
+<span class="octicon octicon-repo"></span>
+[nushell](https://github.com/nushell){:target='_blank'}/[nushell](https://github.com/nushell/nushell){:target='_blank'}
+-
+[#16157](https://github.com/nushell/nushell/pull/16157){:target='_blank'}
+
 <p class="center">&mdash; 2023 &mdash;</p>
 
 <span class="octicon octicon-repo"></span>
